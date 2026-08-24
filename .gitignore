@@ -84,9 +84,6 @@ exports/_check_*.png
 exports/_recheck*.png
 .~lock.*#
 
-# Local agent/session artifacts
-.claude/
-
 # OS cruft
 .DS_Store
 Thumbs.db
