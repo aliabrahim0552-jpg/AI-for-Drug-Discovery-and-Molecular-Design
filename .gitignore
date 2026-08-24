@@ -1,0 +1,96 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Test / tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Fetched/generated data (not source data)
+ch01_drug_discovery_pipeline/data/
+
+# ch03 bundles one real structure file as a committed fixture; everything
+# else generated into data/ (contact maps, CSVs) is ignored.
+ch03_protein_structure/data/*
+!ch03_protein_structure/data/1M17.pdb
+
+# ch04 bundles one real raw ChEMBL extract as a committed fixture (for
+# offline/deterministic tests); everything else generated into data/ is
+# ignored.
+ch04_data_engineering/data/*
+!ch04_data_engineering/data/raw_egfr_bioactivities_sample.json
+
+# ch06 bundles the real raw ESOL/FreeSolv MoleculeNet CSVs as committed
+# fixtures (for offline/deterministic tests); PyTorch Geometric's
+# processed-tensor cache generated into data/_pyg_cache is not.
+ch06_gnn_molecular_properties/data/_pyg_cache/
+
+# ch11's intermediate per-compound PDBQT files (receptor/ligand prep,
+# per-condition docking output) and development run logs are real but
+# regenerable working files, not deliverables; only the final
+# molecular_docking_results.json is committed.
+ch11_molecular_docking/results/_scratch/
+ch11_molecular_docking/results/full_run*.log
+ch11_molecular_docking/results/smoke_test*.json
+
+# ch12's intermediate PDBFixer/protonation working files and development
+# run logs are real but regenerable; only the final md_nnp_results.json
+# is committed.
+ch12_md_nnp/results/_scratch/
+ch12_md_nnp/results/full_run*.log
+ch12_md_nnp/results/smoke_test*.json
+
+# ch13's intermediate per-compound PDBQT/receptor prep files and
+# development run logs are real but regenerable working files, not
+# deliverables; only the final htvs_results.json is committed.
+ch13_htvs_pipeline/results/_scratch/
+ch13_htvs_pipeline/results/full_run*.log
+ch13_htvs_pipeline/results/smoke_test*.json
+
+# ch16's intermediate per-compound PDBQT/receptor prep files, and its
+# own QSAR-model checkpoint/metrics (a resumability convenience for
+# surviving this environment's own mid-run interruptions, not a
+# chapter deliverable) are real but regenerable working files; only
+# the final capstone_results.json and technical_report.html are
+# committed.
+ch16_capstone_oncology/results/_scratch/
+ch16_capstone_oncology/results/qsar_model_checkpoint.pt
+ch16_capstone_oncology/results/qsar_metrics.json
+ch16_capstone_oncology/results/full_run*.log
+ch16_capstone_oncology/results/smoke_test*.json
+
+# Export conversion artifacts - the finished .docx/.pdf files under
+# exports/chapter_NN/ are committed; intermediate/temp conversion output
+# is not.
+exports/**/*.html
+exports/**/*.htm
+exports/_validation_raw.json
+exports/_check_*.png
+exports/_recheck*.png
+.~lock.*#
+
+# Local agent/session artifacts
+.claude/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

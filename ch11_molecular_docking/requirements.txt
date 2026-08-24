@@ -1,0 +1,15 @@
+# Tested with rdkit 2026.03.5, meeko 0.7.1, numpy 2.5.2, scipy 1.18.0,
+# requests 2.34.2 on Python 3.12, plus OpenBabel 3.1.0 (a system
+# package / the `openbabel-wheel` PyPI package) and AutoDock Vina
+# 1.2.7 (the `vina` PyPI package on platforms with a prebuilt wheel --
+# manylinux/musllinux/macOS -- or the official standalone executable
+# otherwise; see chapter.md's feasibility note for why this chapter's
+# own results were generated via the executable fallback path).
+rdkit>=2023.9
+meeko>=0.6
+gemmi>=0.6  # meeko's chemical-template dependency
+numpy>=1.24
+scipy>=1.10
+requests>=2.28
+openbabel-wheel>=3.1.1
+vina>=1.2.5; sys_platform != "win32"

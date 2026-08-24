@@ -1,0 +1,1598 @@
+[
+  {
+    "sirna": "UGCACUUAGAGACGUAGAG",
+    "target_site": "CUCUACGUCUCUAAGUGCA",
+    "extended_target": "UGACAUUAGCCGGGACACUCUCUACGUCUCUAAGUGCAUCUGCCUCAUCACACCCAU",
+    "efficiency": 0.51,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCGCCCUCGUCCACCAGUG",
+    "target_site": "CACUGGUGGACGAGGGCGA",
+    "extended_target": "GUCGAGGGAUUCCGCGUGACACUGGUGGACGAGGGCGAUCUAUACAACUGGGAGGUG",
+    "efficiency": 0.56,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GCUUUAUCAAAGUUUUGCA",
+    "target_site": "UGCAAAACUUUGAUAAAGC",
+    "extended_target": "UUUACCAACAGGGAGCAAAUGCAAAACUUUGAUAAAGCAUCUUUUCUGUCAGAUCAG",
+    "efficiency": 0.34,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AAAUUAUGGAGUUUAUCGU",
+    "target_site": "ACGAUAAACUCCAUAAUUU",
+    "extended_target": "GGACUGGAAGCCAGUCCUUACGAUAAACUCCAUAAUUUAUGGCCUGCAGUAUCUCUU",
+    "efficiency": 0.61,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "ACUCCCAGUUCAUGAGGUU",
+    "target_site": "AACCUCAUGAACUGGGAGU",
+    "extended_target": "AAAUCCCGAUGGCACGAUGAACCUCAUGAACUGGGAGUGCGCCAUUCCAGGAAAGAA",
+    "efficiency": 0.26,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AUAGCAGAACUGUGCGGAU",
+    "target_site": "AUCCGCACAGUUCUGCUAU",
+    "extended_target": "GUGGUCCCCAGCACUGCAGAUCCGCACAGUUCUGCUAUCGAUCCAGGCCUUGUUAAG",
+    "efficiency": 0.4,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CCAUUUGAGCAUACAUAAG",
+    "target_site": "CUUAUGUAUGCUCAAAUGG",
+    "extended_target": "CACAUUAAAGUAUCAUGGCCUUAUGUAUGCUCAAAUGGAAUCUUAUGUAACUUUCUU",
+    "efficiency": 0.33,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "ACAGCAAGUUUAAAUGUAG",
+    "target_site": "CUACAUUUAAACUUGCUGU",
+    "extended_target": "ACAUUUUUUCUAGCCUUUCCUACAUUUAAACUUGCUGUUGCCCAAAUUAUAAUUUUU",
+    "efficiency": 0.62,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUUCUUUGGCUUCUUGGUC",
+    "target_site": "GACCAAGAAGCCAAAGAAC",
+    "extended_target": "AAGCGAUUCAAGCCAAGCUGACCAAGAAGCCAAAGAACUGGCUAGGCAAAUAAGCUU",
+    "efficiency": 0.42,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CAGCAUCAACAUUAGCAGG",
+    "target_site": "CCUGCUAAUGUUGAUGCUG",
+    "extended_target": "AGACCCUAAUGGAGACUCACCUGCUAAUGUUGAUGCUGCGAAAGAAUGGAGGGAAGA",
+    "efficiency": 0.73,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCCGGCAUGGCCUCUCAUC",
+    "target_site": "GAUGAGAGGCCAUGCCGGA",
+    "extended_target": "CACAUCCCAGCCUGAGGUGGAUGAGAGGCCAUGCCGGACCCCGCCGCUGCAGCAGUC",
+    "efficiency": 0.47,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CCUGAGCUCCCAGGAGCCC",
+    "target_site": "GGGCUCCUGGGAGCUCAGG",
+    "extended_target": "GUGGACGGGGAUGGGGAUGGGGCUCCUGGGAGCUCAGGGGAUGAGCCCCCAUCAUCC",
+    "efficiency": 0.27,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AUCCUGUGGAUCAUCUGGC",
+    "target_site": "GCCAGAUGAUCCACAGGAU",
+    "extended_target": "CACUAUUGGCAGCUGCAGAGCCAGAUGAUCCACAGGAUGCUGUAGUAGCAAAUCAGU",
+    "efficiency": 0.56,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUGCCUUAAAGCUUAUUUG",
+    "target_site": "CAAAUAAGCUUUAAGGCAG",
+    "extended_target": "AGCCAAAGAACUGGCUAGGCAAAUAAGCUUUAAGGCAGAAGUCAAUUCAUCUGGAAA",
+    "efficiency": 0.42,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GACUGCUGCAGCGGCGGGG",
+    "target_site": "CCCCGCCGCUGCAGCAGUC",
+    "extended_target": "GAUGAGAGGCCAUGCCGGACCCCGCCGCUGCAGCAGUCCCCCAGUGUCAUCCGGAGG",
+    "efficiency": 0.46,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUCCCUCCAUUCUUUCGCA",
+    "target_site": "UGCGAAAGAAUGGAGGGAA",
+    "extended_target": "CACCUGCUAAUGUUGAUGCUGCGAAAGAAUGGAGGGAAGAUAGAAAUGGAGAAUUUA",
+    "efficiency": 0.54,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUCCUUCGGGCGGCUGAGG",
+    "target_site": "CCUCAGCCGCCCGAAGGAC",
+    "extended_target": "UAAAGAAAAUAUGAAACUCCCUCAGCCGCCCGAAGGACAGXXXXXXXXXXXXXXXXX",
+    "efficiency": 0.41,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCCAUGACUCUGUUGGCGU",
+    "target_site": "ACGCCAACAGAGUCAUGGA",
+    "extended_target": "GUGAAGGGCUCCGGACUCUACGCCAACAGAGUCAUGGAUGUGUCUGAUUACGUGACG",
+    "efficiency": 0.67,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUUUGCUGUCUUUCCAUCC",
+    "target_site": "GGAUGGAAAGACAGCAAAG",
+    "extended_target": "AAAUUGCAGUUCCUGAGCUGGAUGGAAAGACAGCAAAGAUGUACAGGGGUGGCAAAA",
+    "efficiency": 0.77,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCUUGUUACAUGUUCGCAC",
+    "target_site": "GUGCGAACAUGUAACAAGA",
+    "extended_target": "ACCGGAUAAUUCUUUUUAUGUGCGAACAUGUAACAAGAAUCCAAAGAAAACAAAAUG",
+    "efficiency": 0.93,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUGAAAUGAUCCGUCAGGC",
+    "target_site": "GCCUGACGGAUCAUUUCAA",
+    "extended_target": "UACAGGGGUGGCAAAAUAUGCCUGACGGAUCAUUUCAAACCUUUGUGGGCCAGGAAU",
+    "efficiency": 0.87,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGUGACCGGCUUGGCGCUG",
+    "target_site": "CAGCGCCAAGCCGGUCACC",
+    "extended_target": "UGACCGAUGGGCCGUGCCGCAGCGCCAAGCCGGUCACCGAGCUGGUGUGCUCCGGCC",
+    "efficiency": 0.38,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CAUAUGGUGUGUCUGGAGG",
+    "target_site": "CCUCCAGACACACCAUAUG",
+    "extended_target": "AAGAGGAGAAAUAGCAGGACCUCCAGACACACCAUAUGAAGGAGGAAGAUACCAACU",
+    "efficiency": 0.5,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGUGGUUUGAAGGGGUAGU",
+    "target_site": "ACUACCCCUUCAAACCACC",
+    "extended_target": "ACAAUUCAUUUUCCUACAGACUACCCCUUCAAACCACCUAAGGUUGCAUUUACAACA",
+    "efficiency": 0.47,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CAGUAGUAGGAUAUGUGAU",
+    "target_site": "AUCACAUAUCCUACUACUG",
+    "extended_target": "CAUCGAGUUUGACAUUCCUAUCACAUAUCCUACUACUGCCCCAGAAAUUGCAGUUCC",
+    "efficiency": 0.52,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GCAUUGUAAGGGUAGCCAC",
+    "target_site": "GUGGCUACCCUUACAAUGC",
+    "extended_target": "CUCUCGCUAGAGUUCCCCAGUGGCUACCCUUACAAUGCGCCCACAGUGAAGUUCCUC",
+    "efficiency": 0.65,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AAGACAAGGGCAAGGGUCA",
+    "target_site": "UGACCCUUGCCCUUGUCUU",
+    "extended_target": "CCCUCAAGUAGAUGGCCUGUGACCCUUGCCCUUGUCUUGGGCCAGAUCCCUCCCCCA",
+    "efficiency": 0.4,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUGUCUGGCUAUCCUGUCG",
+    "target_site": "CGACAGGAUAGCCAGACAG",
+    "extended_target": "UGACCAACAGAGCAGAACACGACAGGAUAGCCAGACAGUGGACCAAXXXXXXXXXXX",
+    "efficiency": 0.58,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUCAUGAAACGUACUUUAG",
+    "target_site": "CUAAAGUACGUUUCAUGAC",
+    "extended_target": "GAAUACCCAAUGGCAGCCCCUAAAGUACGUUUCAUGACCAAAAUUUAUCAUCCUAAU",
+    "efficiency": 0.59,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUUAAGGUCAUUCCAGGAG",
+    "target_site": "CUCCUGGAAUGACCUUAAA",
+    "extended_target": "XXXXXXXXXXXUGACCCACCUCCUGGAAUGACCUUAAAUGAGAAGAGUGUUCAAAAU",
+    "efficiency": 0.75,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCCGGCUCCAGCACCUCCA",
+    "target_site": "UGGAGGUGCUGGAGCCGGA",
+    "extended_target": "CUGGCGGAGCCCGAGGAGGUGGAGGUGCUGGAGCCGGAGGAGGACUUCGAGCAGUUU",
+    "efficiency": 0.52,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCCUAGAUUUGUGACUGAU",
+    "target_site": "AUCAGUCACAAAUCUAGGA",
+    "extended_target": "GACAGCCUUAAAUGCUCAUAUCAGUCACAAAUCUAGGAUGUACUGUCUUGUUGUAUG",
+    "efficiency": 0.56,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "ACUCCAGAGAGCAAGAGUA",
+    "target_site": "UACUCUUGCUCUCUGGAGU",
+    "extended_target": "CCCUCCUGUGACCUCCAUCUACUCUUGCUCUCUGGAGUCUCCCCGUCCCUGAGGAGC",
+    "efficiency": 0.43,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UAGGCGCUGCUUCUUGCCC",
+    "target_site": "GGGCAAGAAGCAGCGCCUA",
+    "extended_target": "UCUCCGAGGGCUUGGCCCAGGGCAAGAAGCAGCGCCUAAGCAAGAAGCUGCGGAGGA",
+    "efficiency": 0.7,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCUGAAUGGCAGGUAGAGC",
+    "target_site": "GCUCUACCUGCCAUUCAGA",
+    "extended_target": "GAGAGCAUGAGGGUUCACAGCUCUACCUGCCAUUCAGACGACGACUGUAUUGCCGGA",
+    "efficiency": 0.59,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GCUGUGCUGCCUGGCUAUU",
+    "target_site": "AAUAGCCAGGCAGCACAGC",
+    "extended_target": "GAAUCCUAACAGUCCAGCCAAUAGCCAGGCAGCACAGCUUUAUCAGGAAAACAAACG",
+    "efficiency": 0.38,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AGGGACUGGAUUACUUGGU",
+    "target_site": "ACCAAGUAAUCCAGUCCCU",
+    "extended_target": "AAGCCAGCAACCAAAACCGACCAAGUAAUCCAGUCCCUCAUAGCACUGGUGAAUGAC",
+    "efficiency": 0.65,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGGGGUGGUAGAUCUUGGU",
+    "target_site": "ACCAAGAUCUACCACCCCA",
+    "extended_target": "UCCCAUGAUCAAAUUCACAACCAAGAUCUACCACCCCAACGUGGACGAGAACGGACA",
+    "efficiency": 0.68,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AGCCCUCCAGCUCAUUCUU",
+    "target_site": "AAGAAUGAGCUGGAGGGCU",
+    "extended_target": "GCCGGUUCUGGGGCGCAAUAAGAAUGAGCUGGAGGGCUGGGGACAAGGCGUCUACAU",
+    "efficiency": 0.4,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUACACAGCGGGCAACUUU",
+    "target_site": "AAAGUUGCCCGCUGUGUAA",
+    "extended_target": "AAAUGGAGAAUUUAAAAGAAAAGUUGCCCGCUGUGUAAGAAAAAGCCAAGAGXXXXX",
+    "efficiency": 0.7,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GCCGCCGGUUGUUCUGCAG",
+    "target_site": "CUGCAGAACAACCGGCGGC",
+    "extended_target": "CAAGGAGGCCGCAGAGGUCCUGCAGAACAACCGGCGGCUGUUUGAGCAGAACGUGCA",
+    "efficiency": 0.48,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUCAUAUGGUGUGUCUGGA",
+    "target_site": "UCCAGACACACCAUAUGAA",
+    "extended_target": "GAGGAGAAAUAGCAGGACCUCCAGACACACCAUAUGAAGGAGGAAGAUACCAACUAG",
+    "efficiency": 0.55,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUUGGGCAGGUUCAGCUCG",
+    "target_site": "CGAGCUGAACCUGCCCAAG",
+    "extended_target": "GGAUCCAGAAGGACAUAAACGAGCUGAACCUGCCCAAGACGUGUGAUAUCAGCUUCU",
+    "efficiency": 0.54,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUGUAUCUGGAGGGCCAAU",
+    "target_site": "AUUGGCCCUCCAGAUACAC",
+    "extended_target": "CCGAUGGGAAGUCCUUAUUAUUGGCCCUCCAGAUACACUUUAUGAAGGUGGUGUUUU",
+    "efficiency": 0.27,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GCCAUGAUACUUUAAUGUG",
+    "target_site": "CACAUUAAAGUAUCAUGGC",
+    "extended_target": "CUUCCAAGAAAUGGUGGUUCACAUUAAAGUAUCAUGGCCUUAUGUAUGCUCAAAUGG",
+    "efficiency": 0.47,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AGGGAUUUCCACUGCCAGC",
+    "target_site": "GCUGGCAGUGGAAAUCCCU",
+    "extended_target": "CUCUGGGGCUGGGUCCAUGGCUGGCAGUGGAAAUCCCUGAUCUGAUUCAGAAGGGCG",
+    "efficiency": 0.36,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GCUUGGUUCGUUUCCAAGG",
+    "target_site": "CCUUGGAAACGAACCAAGC",
+    "extended_target": "CCACCUGCCCAUUGUGUUCCCUUGGAAACGAACCAAGCCAXXXXXXXXXXXXXXXXX",
+    "efficiency": 0.64,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CCCUCUCCUUUUGUUGGCA",
+    "target_site": "UGCCAACAAAAGGAGAGGG",
+    "extended_target": "UUAGCCAUCAUUGGGUUUAUGCCAACAAAAGGAGAGGGAGCCAUAGGUUCUCUAGAU",
+    "efficiency": 0.21,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUUCAUCGUGCCAUCGGGA",
+    "target_site": "UCCCGAUGGCACGAUGAAC",
+    "extended_target": "UGGCUGUCCCAACAAAAAAUCCCGAUGGCACGAUGAACCUCAUGAACUGGGAGUGCG",
+    "efficiency": 0.36,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGGCGAAGAUGGAUAAUCA",
+    "target_site": "UGAUUAUCCAUCUUCGCCA",
+    "extended_target": "UACGGAUGCUUUUCAAAGAUGAUUAUCCAUCUUCGCCACCAAAAUGUAAAUUCGAAC",
+    "efficiency": 0.44,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUUGGACUCCAUCGAUUCU",
+    "target_site": "AGAAUCGAUGGAGUCCAAC",
+    "extended_target": "AUAUGUUUAGAUAUCCUUCAGAAUCGAUGGAGUCCAACAUAUGAUGUAUCUUCUAUC",
+    "efficiency": 0.48,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCAGGGCCCUCGAUGGUGA",
+    "target_site": "UCACCAUCGAGGGCCCUGA",
+    "extended_target": "GACCUCACCGACCUCCAGGUCACCAUCGAGGGCCCUGAGGGGACCCCAUAUGCUGGA",
+    "efficiency": 0.27,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AUAUACCAGCAUUUUCCAA",
+    "target_site": "UUGGAAAAUGCUGGUAUAU",
+    "extended_target": "AAGGAAGGAACUCGGUGGUUUGGAAAAUGCUGGUAUAUCCAUGACCUCCUGAAAUAU",
+    "efficiency": 0.42,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "ACACCAAAGCCAGGAAUGA",
+    "target_site": "UCAUUCCUGGCUUUGGUGU",
+    "extended_target": "CUGUGCCAGUGAAUAACGUUCAUUCCUGGCUUUGGUGUGUUCCUGAAUUUGAGGUGC",
+    "efficiency": 0.39,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GCAGCUGUACUCGGACACG",
+    "target_site": "CGUGUCCGAGUACAGCUGC",
+    "extended_target": "ACCCCUUUGAGACCAAAGACGUGUCCGAGUACAGCUGCCGCGAGCUGCACUUCACCC",
+    "efficiency": 0.41,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGGGACCAGUCUUCUGUUA",
+    "target_site": "UAACAGAAGACUGGUCCCC",
+    "extended_target": "CAUAUCUGUUUAUCCAUUCUAACAGAAGACUGGUCCCCAGCGCUCUCAGUCCAAUCA",
+    "efficiency": 0.48,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUUCCAGUUGAUGAUGACU",
+    "target_site": "AGUCAUCAUCAACUGGAAC",
+    "extended_target": "ACAAGGGCGGUGUCAUUGGAGUCAUCAUCAACUGGAACUGUGACCUGGACUUGUCUG",
+    "efficiency": 0.25,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GCAGCAGCGUCUCGUUCAG",
+    "target_site": "CUGAACGAGACGCUGCUGC",
+    "extended_target": "UGACCCCAAGGAAAAGGAUCUGAACGAGACGCUGCUGCGCUCGCUGCUCGGGGGCCA",
+    "efficiency": 0.35,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGUACUGAUUUGCUACUAC",
+    "target_site": "GUAGUAGCAAAUCAGUACA",
+    "extended_target": "AGAUGAUCCACAGGAUGCUGUAGUAGCAAAUCAGUACAAACAAAAUCCCGAAAUGUU",
+    "efficiency": 0.69,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCGGUCCCGAAGUCCUUGA",
+    "target_site": "UCAAGGACUUCGGGACCGA",
+    "extended_target": "UUCCACAACCAGUCGGAGCUCAAGGACUUCGGGACCGAGGCCGCUCGGCCGCAGAAG",
+    "efficiency": 0.46,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGGUGGUUCGAAUUUACAU",
+    "target_site": "AUGUAAAUUCGAACCACCA",
+    "extended_target": "AUCCAUCUUCGCCACCAAAAUGUAAAUUCGAACCACCAUUAUUUCACCCGAAUGUGU",
+    "efficiency": 0.56,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUCAUCCAUUUGGUCUUUA",
+    "target_site": "UAAAGACCAAAUGGAUGAC",
+    "extended_target": "GCAUCACAUGUUGGCAAGAUAAAGACCAAAUGGAUGACCUGCGAGCUCAAAUAUUAG",
+    "efficiency": 0.47,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GCUUUCCAGUCUCCGGCAA",
+    "target_site": "UUGCCGGAGACUGGAAAGC",
+    "extended_target": "AAUGCAGAAGUUCUUCGGUUUGCCGGAGACUGGAAAGCUGUCCCCCCGUGUCAUGGA",
+    "efficiency": 0.01,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUUGCAUUUGCUCCCUGUU",
+    "target_site": "AACAGGGAGCAAAUGCAAA",
+    "extended_target": "UAAGGAAUCCUGGUUUACCAACAGGGAGCAAAUGCAAAACUUUGAUAAAGCAUCUUU",
+    "efficiency": 0.37,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUUCGGCAUUCUUUCUGAA",
+    "target_site": "UUCAGAAAGAAUGCCGAAG",
+    "extended_target": "GACACAGAAUCCGGAGCUGUUCAGAAAGAAUGCCGAAGAGUUCACCCUCCGAUUCGG",
+    "efficiency": 0.43,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "ACGUCCCCUACCCGCAAGA",
+    "target_site": "UCUUGCGGGUAGGGGACGU",
+    "extended_target": "AAGGACCCUUUCUGCCCCAUCUUGCGGGUAGGGGACGUGGUCAAGUUUGCGGGGCAG",
+    "efficiency": 0.57,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CCUUCCUUUUCUGUGUUGA",
+    "target_site": "UCAACACAGAAAAGGAAGG",
+    "extended_target": "UGACUCCAGAGUACACAACUCAACACAGAAAAGGAAGGCCAGUCAGCUAGUAGGCAU",
+    "efficiency": 0.49,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CGCCUCUUCCUUGAAGUUU",
+    "target_site": "AAACUUCAAGGAAGAGGCG",
+    "extended_target": "AAAACCUGCAAUGGACCCAAAACUUCAAGGAAGAGGCGUCUUCAAGGUUCAUAUGUA",
+    "efficiency": 0.49,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGCUACUACAGCAUCCUGU",
+    "target_site": "ACAGGAUGCUGUAGUAGCA",
+    "extended_target": "CUGCAGAGCCAGAUGAUCCACAGGAUGCUGUAGUAGCAAAUCAGUACAAACAAAAUC",
+    "efficiency": 0.67,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGAUAUUCGGUCUAUUCAC",
+    "target_site": "GUGAAUAGACCGAAUAUCA",
+    "extended_target": "GGAGGCCCUCAAUGUGCUGGUGAAUAGACCGAAUAUCAGGGAGCCCCUGCGGAUGGA",
+    "efficiency": 0.67,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GCGCGCGCGGCGCCUCACC",
+    "target_site": "GGUGAGGCGCCGCGCGCGC",
+    "extended_target": "GCAGCUGCUGUGUCCCGGUGGUGAGGCGCCGCGCGCGCGCAAGGUGCGCCUGGUGGC",
+    "efficiency": 0.19,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUUUCCACUCUGGUGACCU",
+    "target_site": "AGGUCACCAGAGUGGAAAC",
+    "extended_target": "AAACGCCUACGGGAGUCAAAGGUCACCAGAGUGGAAACUCACACCAGAGCCUGCCCC",
+    "efficiency": 0.7,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUCGGGAUUUUGUUUGUAC",
+    "target_site": "GUACAAACAAAAUCCCGAA",
+    "extended_target": "AUGCUGUAGUAGCAAAUCAGUACAAACAAAAUCCCGAAAUGUUCAAACAGACAGCUC",
+    "efficiency": 0.55,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUCCAACUCCAAGUCUCAG",
+    "target_site": "CUGAGACUUGGAGUUGGAG",
+    "extended_target": "ACUUUGGGUCCCUGUGACACUGAGACUUGGAGUUGGAGCUCACCGCCUCUGAAAGUU",
+    "efficiency": 0.61,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGGCCGAAACUCUUUUCUC",
+    "target_site": "GAGAAAAGAGUUUCGGCCA",
+    "extended_target": "GGAAAACAAACGAGAAUAUGAGAAAAGAGUUUCGGCCAUUGUUGAACAAAGCXXXXX",
+    "efficiency": 0.62,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "ACAGGAAUAUUUUCACCAG",
+    "target_site": "CUGGUGAAAAUAUUCCUGU",
+    "extended_target": "UCUCCUCAGGUCAUGUUUACUGGUGAAAAUAUUCCUGUUCAUCCUCAUGUUUAUAGC",
+    "efficiency": 0.8,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCAGCAUACACAUUUGGAU",
+    "target_site": "AUCCAAAUGUGUAUGCUGA",
+    "extended_target": "UUUUUAUCCAAAAUGUUUCAUCCAAAUGUGUAUGCUGAUGGUAGCAUAUGUUUAGAU",
+    "efficiency": 0.54,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUAUGUGAGCGCAUUUUCC",
+    "target_site": "GGAAAAUGCGCUCACAUAC",
+    "extended_target": "GGGAAAAUAACUUUGAUUUGGAAAAUGCGCUCACAUACGGGAAUUAAGGCCUAGAUU",
+    "efficiency": 0.65,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CCCCAACUAACCCUCUUGA",
+    "target_site": "UCAAGAGGGUUAGUUGGGG",
+    "extended_target": "UGCAAAUCCCACUGXAACUUCAAGAGGGUUAGUUGGGGGACUGCAGACAUCAUAAUU",
+    "efficiency": 0.3,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CGGUUUUGGUUGCUGGCUU",
+    "target_site": "AAGCCAGCAACCAAAACCG",
+    "extended_target": "AAUUAGUGCCGAAAACUGGAAGCCAGCAACCAAAACCGACCAAGUAAUCCAGUCCCU",
+    "efficiency": 0.31,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUGAGGGCGUCGGGUGGCA",
+    "target_site": "UGCCACCCGACGCCCUCAC",
+    "extended_target": "CAAGAUGAGGAGUUGCUGAUGCCACCCGACGCCCUCACGGACACAGACUUCCAGUCX",
+    "efficiency": 0.09,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "ACUGGAAGUCUGUGUCCGU",
+    "target_site": "ACGGACACAGACUUCCAGU",
+    "extended_target": "GAUGCCACCCGACGCCCUCACGGACACAGACUUCCAGUCXXXXXXXXXXXXXXXXXX",
+    "efficiency": 0.64,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GCAUGAUGUUGUUUUCAGA",
+    "target_site": "UCUGAAAACAACAUCAUGC",
+    "extended_target": "GGGUGUCAGUGGCGCACCAUCUGAAAACAACAUCAUGCAGUGGAAUGCAGUUAUAUU",
+    "efficiency": 0.36,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UAGAAGGCUCUGGAUGGAG",
+    "target_site": "CUCCAUCCAGAGCCUUCUA",
+    "extended_target": "AUGUCAGGACCAUUCUGCUCUCCAUCCAGAGCCUUCUAGGAGAACCCAACAUUGAUA",
+    "efficiency": 0.61,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AGGAUGUUGAGGCAGACGU",
+    "target_site": "ACGUCUGCCUCAACAUCCU",
+    "extended_target": "AACAUUGACCUCGAGGGCAACGUCUGCCUCAACAUCCUCAGAGAGGACUGGAAGCCA",
+    "efficiency": 0.6,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUUGCUACUACAGCAUCCU",
+    "target_site": "AGGAUGCUGUAGUAGCAAA",
+    "extended_target": "GCAGAGCCAGAUGAUCCACAGGAUGCUGUAGUAGCAAAUCAGUACAAACAAAAUCCC",
+    "efficiency": 0.69,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CAAUUCCUUUCAAUUUUAU",
+    "target_site": "AUAAAAUUGAAAGGAAUUG",
+    "extended_target": "UUGGUCUGCUUAUUUUUAGAUAAAAUUGAAAGGAAUUGUAUAAAUCAAUUAACAUAU",
+    "efficiency": 0.27,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AAUGUUGGGUUCUCCUAGA",
+    "target_site": "UCUAGGAGAACCCAACAUU",
+    "extended_target": "UGCUCUCCAUCCAGAGCCUUCUAGGAGAACCCAACAUUGAUAGUCCCUUGAACACAC",
+    "efficiency": 0.66,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AAGGCUCUCUGGUUUCAGC",
+    "target_site": "GCUGAAACCAGAGAGCCUU",
+    "extended_target": "GACAUGACACCCUGGAGAAGCUGAAACCAGAGAGCCUUUGUUUUCCUUUUUUCUUUC",
+    "efficiency": 0.76,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GAAGUAGACAACCUUCUCU",
+    "target_site": "AGAGAAGGUUGUCUACUUC",
+    "extended_target": "CGGGCCCAGCAGCAGAGUCAGAGAAGGUUGUCUACUUCACCAGAUGUAAUCCAGGGC",
+    "efficiency": 0.59,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GAAAAGCCUUCCACUGGAU",
+    "target_site": "AUCCAGUGGAAGGCUUUUC",
+    "extended_target": "XXXXXAGAACUCAACAAAAAUCCAGUGGAAGGCUUUUCUGCAGGUUUAAUAGAUGAC",
+    "efficiency": 0.49,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGGGUCUUGGAUAUUUGGU",
+    "target_site": "ACCAAAUAUCCAAGACCCA",
+    "extended_target": "UACAGGAACUUCUAAAUGAACCAAAUAUCCAAGACCCAGCUCAAGCAGAGGCCUACA",
+    "efficiency": 0.63,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGCUGCCAUUGGGUAUUCU",
+    "target_site": "AGAAUACCCAAUGGCAGCC",
+    "extended_target": "UUGAACUAUUCCUUCCAGAAGAAUACCCAAUGGCAGCCCCUAAAGUACGUUUCAUGA",
+    "efficiency": 0.33,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AUAUUCCUCCUUCAGUCGC",
+    "target_site": "GCGACUGAAGGAGGAAUAU",
+    "extended_target": "AUCGUGAGUUGUGGGUGCAGCGACUGAAGGAGGAAUAUCAGUCCCUUAUCCGGUAUG",
+    "efficiency": 0.79,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUGUUGUAAAUGCAACCUU",
+    "target_site": "AAGGUUGCAUUUACAACAA",
+    "extended_target": "CUACCCCUUCAAACCACCUAAGGUUGCAUUUACAACAAGAAUUUAUCAUCCAAAUAU",
+    "efficiency": 0.62,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AGGAAGUAGCCCUUGGGUG",
+    "target_site": "CACCCAAGGGCUACUUCCU",
+    "extended_target": "AAGGACUUCCCUGCCUCCCCACCCAAGGGCUACUUCCUGACCAAGAUCUUCCACCCG",
+    "efficiency": 0.61,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUAUCAAGCAUCUCUUCCU",
+    "target_site": "AGGAAGAGAUGCUUGAUAA",
+    "extended_target": "CAGAAACAAAAGGCUGAUGAGGAAGAGAUGCUUGAUAAUCUACCAGAGGCUGGUGAC",
+    "efficiency": 0.84,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AACUCAUAUUUCAGGAGGU",
+    "target_site": "ACCUCCUGAAAUAUGAGUU",
+    "extended_target": "AAAUGCUGGUAUAUCCAUGACCUCCUGAAAUAUGAGUUUGACAUCGAGUUUGACAUU",
+    "efficiency": 0.32,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AAAAGGGAACAAAUAGACA",
+    "target_site": "UGUCUAUUUGUUCCCUUUU",
+    "extended_target": "ACUAUUUCAAAGGUUUUGCUGUCUAUUUGUUCCCUUUUGACAGACUGCAACCCUGCG",
+    "efficiency": 0.64,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CCAGCUGCUCCAUGGAUGG",
+    "target_site": "CCAUCCAUGGAGCAGCUGG",
+    "extended_target": "XXXXXXXXXXXXXXXGGGACCAUCCAUGGAGCAGCUGGAACAGUAUAUGAAGACCUG",
+    "efficiency": 0.6,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "ACCAUUUUGUUUUCUUUGG",
+    "target_site": "CCAAAGAAAACAAAAUGGU",
+    "extended_target": "GCGAACAUGUAACAAGAAUCCAAAGAAAACAAAAUGGUGGUAUCAUXXXXXXXXXXX",
+    "efficiency": 0.76,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "ACGUUGCGCCUCUCGGCGG",
+    "target_site": "CCGCCGAGAGGCGCAACGU",
+    "extended_target": "CUCUGCCUGGCGCGCUCGGCCGCCGAGAGGCGCAACGUGAAGCGGCAUCAGGCCUAC",
+    "efficiency": 0.16,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUCUCCUUGAUGUGCAGGA",
+    "target_site": "UCCUGCACAUCAAGGAGAA",
+    "extended_target": "ACCUUUGAGCCCAAGGACUUCCUGCACAUCAAGGAGAAAUACAAUAAUGACUGGUGG",
+    "efficiency": 0.7,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUUGUAUAGAUCGCCCUCG",
+    "target_site": "CGAGGGCGAUCUAUACAAC",
+    "extended_target": "UCCGCGUGACACUGGUGGACGAGGGCGAUCUAUACAACUGGGAGGUGGCCAUCUUCG",
+    "efficiency": 0.54,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CGUCGAUGUUUGGGUGAUA",
+    "target_site": "UAUCACCCAAACAUCGACG",
+    "extended_target": "CACAUUUAAAACAAAGAUCUAUCACCCAAACAUCGACGAAAAGGGGCAGGUCUGUCU",
+    "efficiency": 0.43,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCGGAUCUGAGGAGGUUCA",
+    "target_site": "UGAACCUCCUCAGAUCCGA",
+    "extended_target": "UUCCUGAGAGGUACCCAUUUGAACCUCCUCAGAUCCGAUUUCUCACUCCAAUUUAUC",
+    "efficiency": 0.78,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUUCUUGUCCAGCUUGGCC",
+    "target_site": "GGCCAAGCUGGACAAGAAG",
+    "extended_target": "UCUACUACGCCUACCUGCCGGCCAAGCUGGACAAGAAGAUCCACUCGGGGGCUGUGA",
+    "efficiency": 0.48,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGGCCAGCAAUGACCACAU",
+    "target_site": "AUGUGGUCAUUGCUGGCCC",
+    "extended_target": "AGCAACGCCCGUUAUUUUCAUGUGGUCAUUGCUGGCCCUCAGGAUUCCCCCUUUGAG",
+    "efficiency": 0.35,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AUGGGGAACUUGAGGCGCG",
+    "target_site": "CGCGCCUCAAGUUCCCCAU",
+    "extended_target": "GAGGGCGGCUACUUCAAGGCGCGCCUCAAGUUCCCCAUCGACUACCCAUACUCUCCA",
+    "efficiency": 0.38,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AGAAACGCUGUCGAGCCGG",
+    "target_site": "CCGGCUCGACAGCGUUUCU",
+    "extended_target": "UCCCCAAAUACUCCUUCACCCGGCUCGACAGCGUUUCUGAGAAAAGCAGCGUGUCCC",
+    "efficiency": 0.73,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CCCGACCGGCUUCGGCCCU",
+    "target_site": "AGGGCCGAAGCCGGUCGGG",
+    "extended_target": "CGCCGGCGGGCCCAGCGGCAGGGCCGAAGCCGGUCGGGCCCUGGCCAGUGGCACUGA",
+    "efficiency": 0.37,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUGAACUACUCGGUUGAUG",
+    "target_site": "CAUCAACCGAGUAGUUCAG",
+    "extended_target": "AGAGCUGGACCAUCGGGAUCAUCAACCGAGUAGUUCAGCUUCUGAUCAUCUCCUACU",
+    "efficiency": 0.56,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGGGUUGGGCUCCAAGAAG",
+    "target_site": "CUUCUUGGAGCCCAACCCC",
+    "extended_target": "UUUAUGGCCUGCAGUAUCUCUUCUUGGAGCCCAACCCCGAGGACCCACUGAACAAGG",
+    "efficiency": 0.46,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCCCACAGAAGUAAAGGCC",
+    "target_site": "GGCCUUUACUUCUGUGGGA",
+    "extended_target": "CCAUCAUCAGCUCUGUGGCGGCCUUUACUUCUGUGGGAGUGGGAACUGUUCUCUGUG",
+    "efficiency": 0.6,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CGGGCCCGAGCUGCAUACU",
+    "target_site": "AGUAUGCAGCUCGGGCCCG",
+    "extended_target": "CUCUUGGAGAACUACGAGGAGUAUGCAGCUCGGGCCCGUCUGCUCACAGAGAUCCAC",
+    "efficiency": 0.37,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUGAUGCAUCCAUUAUCUG",
+    "target_site": "CAGAUAAUGGAUGCAUCAG",
+    "extended_target": "UAUUGCAUAUGCCAUGCAUCAGAUAAUGGAUGCAUCAGAUAAUGGUGUUAGACAAAG",
+    "efficiency": 0.6,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGGCAUCAUUCUUGAACGC",
+    "target_site": "GCGUUCAAGAAUGAUGCCA",
+    "extended_target": "GGAGGGCCAGGGGUGGCAGGCGUUCAAGAAUGAUGCCACGGAAAUCAUCCCCGAGCU",
+    "efficiency": 0.7,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUGUCAAAAGGGAACAAAU",
+    "target_site": "AUUUGUUCCCUUUUGACAG",
+    "extended_target": "UUCAAAGGUUUUGCUGUCUAUUUGUUCCCUUUUGACAGACUGCAACCCUGCGGAUCC",
+    "efficiency": 0.36,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AUGGAUAAUCAUCUUUGAA",
+    "target_site": "UUCAAAGAUGAUUAUCCAU",
+    "extended_target": "GUUUAAACUACGGAUGCUUUUCAAAGAUGAUUAUCCAUCUUCGCCACCAAAAUGUAA",
+    "efficiency": 0.49,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CGGUGGACUGCUUCUCCGC",
+    "target_site": "GCGGAGAAGCAGUCCACCG",
+    "extended_target": "CCCCAGCGACCAGACCACAGCGGAGAAGCAGUCCACCGXXXXXXXXXXXXXXXXXXX",
+    "efficiency": 0.61,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUUCUGUGAAGUUCUCUCC",
+    "target_site": "GGAGAGAACUUCACAGAAC",
+    "extended_target": "UUUCAUUGUUGAGAAGGCAGGAGAGAACUUCACAGAACUGGCACACAAGGGCGGUGU",
+    "efficiency": 0.46,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UAGGGUACAUCACAGAACU",
+    "target_site": "AGUUCUGUGAUGUACCCUA",
+    "extended_target": "GGGUCACUCUUCUGUUCCCAGUUCUGUGAUGUACCCUACCUAUCAAGGAGAUCAUUC",
+    "efficiency": 0.87,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CGGUCUCCGUGUCCAGUCC",
+    "target_site": "GGACUGGACACGGAGACCG",
+    "extended_target": "CGACUACUUUGUCAUCUGCGGACUGGACACGGAGACCGGGCUGGAGCCGGACGAGCU",
+    "efficiency": 0.45,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGAUGAGCCUCUGCAGUAC",
+    "target_site": "GUACUGCAGAGGCUCAUCA",
+    "extended_target": "CAAGAUCACAUCCCCCAAGGUACUGCAGAGGCUCAUCAAAUCCCGAGGGAAGUCUCA",
+    "efficiency": 0.55,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GAAAGAAGACAUCCAAAUG",
+    "target_site": "CAUUUGGAUGUCUUCUUUC",
+    "extended_target": "ACUUUCUCUCUGAAUCGGACAUUUGGAUGUCUUCUUUCUUCCAAGAAAUGGUGGUUC",
+    "efficiency": 0.55,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CGUAGGAAUGCAAAGGGGA",
+    "target_site": "UCCCCUUUGCAUUCCUACG",
+    "extended_target": "GAAUGGGAACAUUGCUGGCUCCCCUUUGCAUUCCUACGAGCUUCUUAAGGAGAAUGA",
+    "efficiency": 0.33,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUGCAGGACCUCUGCGGCC",
+    "target_site": "GGCCGCAGAGGUCCUGCAG",
+    "extended_target": "AGGACCCACUGAACAAGGAGGCCGCAGAGGUCCUGCAGAACAACCGGCGGCUGUUUG",
+    "efficiency": 0.5,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GCGCAGCAGCGUCUCGUUC",
+    "target_site": "GAACGAGACGCUGCUGCGC",
+    "extended_target": "ACCCCAAGGAAAAGGAUCUGAACGAGACGCUGCUGCGCUCGCUGCUCGGGGGCCACU",
+    "efficiency": 0.55,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUCACCAGCCUCUGGUAGA",
+    "target_site": "UCUACCAGAGGCUGGUGAC",
+    "extended_target": "AGGAAGAGAUGCUUGAUAAUCUACCAGAGGCUGGUGACUCCAGAGUACACAACUCAA",
+    "efficiency": 0.47,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUGGGUUUGGAUCACAUAG",
+    "target_site": "CUAUGUGAUCCAAACCCAG",
+    "extended_target": "UUUAUCCAUUUGUUCACUGCUAUGUGAUCCAAACCCAGAUGACCCCCUAGUGCCAGA",
+    "efficiency": 0.71,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCCAAAUUUGGGCACAUUC",
+    "target_site": "GAAUGUGCCCAAAUUUGGA",
+    "extended_target": "UCAAACCUUUGUGGGCCAGGAAUGUGCCCAAAUUUGGACUAGCUCAUCUCAUGGCUC",
+    "efficiency": 0.51,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CGGGCGAGAAGGUGUUGGG",
+    "target_site": "CCCAACACCUUCUCGCCCG",
+    "extended_target": "GAUCUCCCUCCUGAACGAGCCCAACACCUUCUCGCCCGCAAACGUGGACGCCUCCGU",
+    "efficiency": 0.34,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUAAAAUUCUCAUCUACAA",
+    "target_site": "UUGUAGAUGAGAAUUUUAC",
+    "extended_target": "AAUCAAAUUAAAGUAGAUCUUGUAGAUGAGAAUUUUACAGAAUUAAGAGGAGAAAUA",
+    "efficiency": 0.41,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "ACUAAUCAUGAUGGUUUCC",
+    "target_site": "GGAAACCAUCAUGAUUAGU",
+    "extended_target": "GGCUCCCUAUCCACACUGUGGAAACCAUCAUGAUUAGUGUCAUUUCUAUGCUGGCAG",
+    "efficiency": 0.41,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CAGCUGCUCCAUGGAUGGU",
+    "target_site": "ACCAUCCAUGGAGCAGCUG",
+    "extended_target": "XXXXXXXXXXXXXXXXGGGACCAUCCAUGGAGCAGCUGGAACAGUAUAUGAAGACCU",
+    "efficiency": 0.46,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AUGGUAAGGGUUUUGACCU",
+    "target_site": "AGGUCAAAACCCUUACCAU",
+    "extended_target": "CAGACCUGAUAAGCAUUUGAGGUCAAAACCCUUACCAUGUUGAAAACAAAAUCUUAC",
+    "efficiency": 0.64,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGAUGUCCAGACAGAUGAC",
+    "target_site": "GUCAUCUGUCUGGACAUCC",
+    "extended_target": "CAACAUCAACAGUCAGGGAGUCAUCUGUCUGGACAUCCUUAAAGACAACUGGAGUCC",
+    "efficiency": 0.33,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGGGCUCCCUGAUAUUCGG",
+    "target_site": "CCGAAUAUCAGGGAGCCCC",
+    "extended_target": "CAAUGUGCUGGUGAAUAGACCGAAUAUCAGGGAGCCCCUGCGGAUGGACCUCGCUGA",
+    "efficiency": 0.37,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CCAUCGGUCACGUAGCGGG",
+    "target_site": "CCCGCUACGUGACCGAUGG",
+    "extended_target": "UGCCGCGAGCUGCACUUCACCCGCUACGUGACCGAUGGGCCGUGCCGCAGCGCCAAG",
+    "efficiency": 0.58,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CCCUCCAUUCUUUCGCAGC",
+    "target_site": "GCUGCGAAAGAAUGGAGGG",
+    "extended_target": "CUCACCUGCUAAUGUUGAUGCUGCGAAAGAAUGGAGGGAAGAUAGAAAUGGAGAAUU",
+    "efficiency": 0.48,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CACUGAAGUGCGGUCACUU",
+    "target_site": "AAGUGACCGCACUUCAGUG",
+    "extended_target": "CUGUCCCAGGAAGCCGGAGAAGUGACCGCACUUCAGUGGGAACAGGCGCAGAAUUAU",
+    "efficiency": 0.59,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AGAUGGGGCAGAAAGGGUC",
+    "target_site": "GACCCUUUCUGCCCCAUCU",
+    "extended_target": "CCGCUUCCACCCGGACAAGGACCCUUUCUGCCCCAUCUUGCGGGUAGGGGACGUGGU",
+    "efficiency": 0.49,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GCUAACUGUGCCAUCUCCU",
+    "target_site": "AGGAGAUGGCACAGUUAGC",
+    "extended_target": "AAGAAGGCCAGAAAGGAGUAGGAGAUGGCACAGUUAGCUGGGGUCUAGAAGAUGACG",
+    "efficiency": 0.45,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGGACCAUAAGGCUGAUUU",
+    "target_site": "AAAUCAGCCUUAUGGUCCC",
+    "extended_target": "ACUACAAGUGAAACAGGGGAAAUCAGCCUUAUGGUCCCACCUGUUACAUUAUCAGGA",
+    "efficiency": 0.31,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUGGUUUGAAGGGGUAGUC",
+    "target_site": "GACUACCCCUUCAAACCAC",
+    "extended_target": "GACAAUUCAUUUUCCUACAGACUACCCCUUCAAACCACCUAAGGUUGCAUUUACAAC",
+    "efficiency": 0.65,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CAGCGUAGUCUCAUUCACC",
+    "target_site": "GGUGAAUGAGACUACGCUG",
+    "extended_target": "AAGCCAAGAAGUUUGAGGAGGUGAAUGAGACUACGCUGAAAAUCGCGGCUUUGACCA",
+    "efficiency": 0.65,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AUGUCAAACUCAUAUUUCA",
+    "target_site": "UGAAAUAUGAGUUUGACAU",
+    "extended_target": "UGGUAUAUCCAUGACCUCCUGAAAUAUGAGUUUGACAUCGAGUUUGACAUUCCUAUC",
+    "efficiency": 0.56,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGUCCACAUUCUAUUUUAA",
+    "target_site": "UUAAAAUAGAAUGUGGACC",
+    "extended_target": "GAAAACCGAAUAUACAGCCUUAAAAUAGAAUGUGGACCUAAAUACCCAGAAGCACCC",
+    "efficiency": 0.29,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGUCUCCGUGAUCUCCCCU",
+    "target_site": "AGGGGAGAUCACGGAGACA",
+    "extended_target": "CAUCAUAAUUGGCUUCGCAAGGGGAGAUCACGGAGACAACUUCCCAUUUGAUGGGCC",
+    "efficiency": 0.76,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGUGCAGUAGACAUAGCUA",
+    "target_site": "UAGCUAUGUCUACUGCACA",
+    "extended_target": "UUCACAUGACUUGAGCUUAUAGCUAUGUCUACUGCACAGAUUGGGUAAUGGAACACU",
+    "efficiency": 0.65,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGCUAUAUGAAUUCUGCCA",
+    "target_site": "UGGCAGAAUUCAUAUAGCA",
+    "extended_target": "CAUAUCAGUGCUAGCAAAAUGGCAGAAUUCAUAUAGCAUCAAAGUUGUCCUGCAAGA",
+    "efficiency": 0.67,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUAAAUUCUGAGGAUAUGU",
+    "target_site": "ACAUAUCCUCAGAAUUUAA",
+    "extended_target": "GAUGACCCGCUCAUGGCUGACAUAUCCUCAGAAUUUAAAUAUAAUAAGCCAGCCUUC",
+    "efficiency": 0.85,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UACAAUCCACUGUGUAAUU",
+    "target_site": "AAUUACACAGUGGAUUGUA",
+    "extended_target": "AGAAGAGUGUUCAAAAUUCAAUUACACAGUGGAUUGUAGACAUGGAAGGUGCACCAG",
+    "efficiency": 0.83,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CAUCCGUCCAGUACUCAUC",
+    "target_site": "GAUGAGUACUGGACGGAUG",
+    "extended_target": "AGAUGCUCACUUUGACAAGGAUGAGUACUGGACGGAUGGUGAGGACUCAGGCGUGAA",
+    "efficiency": 0.65,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCAAUGGCCUCCACCUGCU",
+    "target_site": "AGCAGGUGGAGGCCAUUGA",
+    "extended_target": "UGUGUGGUGCGAGGCUGUGAGCAGGUGGAGGCCAUUGAGUACUACACAAAGCUGGAG",
+    "efficiency": 0.58,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GAAUAUUUUCACCAGUAAA",
+    "target_site": "UUUACUGGUGAAAAUAUUC",
+    "extended_target": "UGACUCUCCUCAGGUCAUGUUUACUGGUGAAAAUAUUCCUGUUCAUCCUCAUGUUUA",
+    "efficiency": 0.68,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GCUCUCCUCAGAGGCCUCU",
+    "target_site": "AGAGGCCUCUGAGGAGAGC",
+    "extended_target": "UCCAGAUCAAGACGCAGGUAGAGGCCUCUGAGGAGAGCGCUCUCAACCACCUGCAGG",
+    "efficiency": 0.52,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGUAGUUCACGCAGCGGCC",
+    "target_site": "GGCCGCUGCGUGAACUACA",
+    "extended_target": "AGGUGGGGGGAUCCUCACUGGCCGCUGCGUGAACUACAGCUCUGUGCUCCGGACCUG",
+    "efficiency": 0.54,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CAGGCGCCGAUUCCGCACC",
+    "target_site": "GGUGCGGAAUCGGCGCCUG",
+    "extended_target": "XGACGCCUAAGGUGAUCGUGGUGCGGAAUCGGCGCCUGGGAUUCGUGCACCGCAUGG",
+    "efficiency": 0.52,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GCACUCCCAGUUCAUGAGG",
+    "target_site": "CCUCAUGAACUGGGAGUGC",
+    "extended_target": "AUCCCGAUGGCACGAUGAACCUCAUGAACUGGGAGUGCGCCAUUCCAGGAAAGAAAG",
+    "efficiency": 0.54,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCUGAAGGCUCCCUUAUCA",
+    "target_site": "UGAUAAGGGAGCCUUCAGA",
+    "extended_target": "UUCCUGACAACCCUCCAUAUGAUAAGGGAGCCUUCAGAAUCGAAAUCAACUUUCCAG",
+    "efficiency": 0.82,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUUCUGCAUUAUCUCCAUG",
+    "target_site": "CAUGGAGAUAAUGCAGAAG",
+    "extended_target": "GAAAGCUGUCCCCCCGUGUCAUGGAGAUAAUGCAGAAGCCCAGGUGUGGAGUGCCAG",
+    "efficiency": 0.73,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCUGCAUUAUCUCCAUGAC",
+    "target_site": "GUCAUGGAGAUAAUGCAGA",
+    "extended_target": "UGGAAAGCUGUCCCCCCGUGUCAUGGAGAUAAUGCAGAAGCCCAGGUGUGGAGUGCC",
+    "efficiency": 0.86,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CAGGAGAAUGGUCCUGACG",
+    "target_site": "CGUCAGGACCAUUCUCCUG",
+    "extended_target": "GGUGGAACCCCACGCAGAACGUCAGGACCAUUCUCCUGAGUGUGAUCUCCCUCCUGA",
+    "efficiency": 0.54,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUGGGGUGAUAGACCAUUG",
+    "target_site": "CAAUGGUCUAUCACCCCAA",
+    "extended_target": "CCCAAGGUGAAGUGUGAGACAAUGGUCUAUCACCCCAACAUUGACCUCGAGGGCAAC",
+    "efficiency": 0.64,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGCAAUUUGAGAACAUCCA",
+    "target_site": "UGGAUGUUCUCAAAUUGCC",
+    "extended_target": "UCUGCUGGAAGGAUUUGUCUGGAUGUUCUCAAAUUGCCACCAAAAGGUGCUUGGAGA",
+    "efficiency": 0.54,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AUAAGGCCAUGAUACUUUA",
+    "target_site": "UAAAGUAUCAUGGCCUUAU",
+    "extended_target": "AAGAAAUGGUGGUUCACAUUAAAGUAUCAUGGCCUUAUGUAUGCUCAAAUGGAAUCU",
+    "efficiency": 0.57,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UAGGAGGAGAGCGUGCCAC",
+    "target_site": "GUGGCACGCUCUCCUCCUA",
+    "extended_target": "AUGAUGCCAAUGUCCUGGUGUGGCACGCUCUCCUCCUACCCGACCAACCUCCCUACC",
+    "efficiency": 0.72,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCCAACUCCAAGUCUCAGU",
+    "target_site": "ACUGAGACUUGGAGUUGGA",
+    "extended_target": "AACUUUGGGUCCCUGUGACACUGAGACUUGGAGUUGGAGCUCACCGCCUCUGAAAGU",
+    "efficiency": 0.66,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GACGACAUUGAUGACCAGG",
+    "target_site": "CCUGGUCAUCAAUGUCGUC",
+    "extended_target": "UCAUCUGGUGGCUGCGCUGCCUGGUCAUCAAUGUCGUCCUCUUCAUCCUCCUCUUCU",
+    "efficiency": 0.45,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGCAGUAGACAUAGCUAUA",
+    "target_site": "UAUAGCUAUGUCUACUGCA",
+    "extended_target": "AAUUCACAUGACUUGAGCUUAUAGCUAUGUCUACUGCACAGAUUGGGUAAUGGAACA",
+    "efficiency": 0.58,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUGGUAGAUCUUGGUUGUG",
+    "target_site": "CACAACCAAGAUCUACCAC",
+    "extended_target": "AGCCUCCCAUGAUCAAAUUCACAACCAAGAUCUACCACCCCAACGUGGACGAGAACG",
+    "efficiency": 0.34,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUUGUUUUCUUUGGAUUCU",
+    "target_site": "AGAAUCCAAAGAAAACAAA",
+    "extended_target": "UAUGUGCGAACAUGUAACAAGAAUCCAAAGAAAACAAAAUGGUGGUAUCAUXXXXXX",
+    "efficiency": 0.79,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CAGUGGGUCCUCGGGGUUG",
+    "target_site": "CAACCCCGAGGACCCACUG",
+    "extended_target": "AGUAUCUCUUCUUGGAGCCCAACCCCGAGGACCCACUGAACAAGGAGGCCGCAGAGG",
+    "efficiency": 0.47,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGUCAACACAGUUGCGAUG",
+    "target_site": "CAUCGCAACUGUGUUGACC",
+    "extended_target": "CUUGGAGACCAUCCCUCAACAUCGCAACUGUGUUGACCUCUAUUCAGCUGCUCAUGU",
+    "efficiency": 0.63,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AGUCUUCUGUUAGAAUGGA",
+    "target_site": "UCCAUUCUAACAGAAGACU",
+    "extended_target": "CAAUGGUCAUAUCUGUUUAUCCAUUCUAACAGAAGACUGGUCCCCAGCGCUCUCAGU",
+    "efficiency": 0.48,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AAGCUUCAGUGCCACUGGC",
+    "target_site": "GCCAGUGGCACUGAAGCUU",
+    "extended_target": "CGAAGCCGGUCGGGCCCUGGCCAGUGGCACUGAAGCUUCCUCCACCGACCCUGGGGC",
+    "efficiency": 0.43,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GAGGCCACCAGGCGCACCU",
+    "target_site": "AGGUGCGCCUGGUGGCCUC",
+    "extended_target": "GAGGCGCCGCGCGCGCGCAAGGUGCGCCUGGUGGCCUCGUGCAAGUGCAAGCGCCUC",
+    "efficiency": 0.53,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUGGAUGACGGGCAGCAGA",
+    "target_site": "UCUGCUGCCCGUCAUCCAC",
+    "extended_target": "AGGAGGACUUCGAGCAGUUUCUGCUGCCCGUCAUCCACGAGAUGCGCGAGGACAUCG",
+    "efficiency": 0.26,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGGUGAUCCCCUUGACUUU",
+    "target_site": "AAAGUCAAGGGGAUCACCA",
+    "extended_target": "GGAGAGCUCCAUCAUCACCAAAGUCAAGGGGAUCACCAUGUCGGAAGACAAAGUGUG",
+    "efficiency": 0.49,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CCAUACUUAUCUUCCCCAG",
+    "target_site": "CUGGGGAAGAUAAGUAUGG",
+    "extended_target": "AUUUCUAUUCUUCAUGAGCCUGGGGAAGAUAAGUAUGGUUAUGAAAAGCCAGAGGAA",
+    "efficiency": 0.41,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGAGGCCCAAUUAUCAUCC",
+    "target_site": "GGAUGAUAAUUGGGCCUCC",
+    "extended_target": "ACACUUACAAGAUGGACAGGGAUGAUAAUUGGGCCUCCAAGAACAAUUUAUGAAAAC",
+    "efficiency": 0.53,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CGUCGGCCUUCUCCGCCCU",
+    "target_site": "AGGGCGGAGAAGGCCGACG",
+    "extended_target": "CGCCGAGCCCCGCGGCCCCAGGGCGGAGAAGGCCGACGAGAAGGCGCAGGAGAUGGC",
+    "efficiency": 0.18,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUUCCAGUUCUCACUGCUG",
+    "target_site": "CAGCAGUGAGAACUGGAAG",
+    "extended_target": "AGAUUUGCCUGCCCAUCAUCAGCAGUGAGAACUGGAAGCCUUGCACCAAGACUUGCC",
+    "efficiency": 0.56,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CACACCAUGUGGCAGAGAG",
+    "target_site": "CUCUCUGCCACAUGGUGUG",
+    "extended_target": "AGGGUGCCGGUGGCUCUGUCUCUCUGCCACAUGGUGUGGAAUCUGGCAGACUACAGU",
+    "efficiency": 0.35,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AGCAUCCGUAGUUUAAACA",
+    "target_site": "UGUUUAAACUACGGAUGCU",
+    "extended_target": "ACUCCGUGGGAAGGAGGCUUGUUUAAACUACGGAUGCUUUUCAAAGAUGAUUAUCCA",
+    "efficiency": 0.51,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AACAUUAGCAGGUGAGUCU",
+    "target_site": "AGACUCACCUGCUAAUGUU",
+    "extended_target": "UGCUGGCAGACCCUAAUGGAGACUCACCUGCUAAUGUUGAUGCUGCGAAAGAAUGGA",
+    "efficiency": 0.6,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUGAGGAACUUCACUGUGG",
+    "target_site": "CCACAGUGAAGUUCCUCAC",
+    "extended_target": "GGCUACCCUUACAAUGCGCCCACAGUGAAGUUCCUCACGCCCUGCUAUCACCCCAAC",
+    "efficiency": 0.55,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCAAAUAUAUGGGGAUACC",
+    "target_site": "GGUAUCCCCAUAUAUUUGA",
+    "extended_target": "UUGUUCGUCUGUACAAGUUGGUAUCCCCAUAUAUUUGAGGAGAUCCUGGGCGUAAAA",
+    "efficiency": 0.57,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AUACAUCAUAUGUUGGACU",
+    "target_site": "AGUCCAACAUAUGAUGUAU",
+    "extended_target": "UAUCCUUCAGAAUCGAUGGAGUCCAACAUAUGAUGUAUCUUCUAUCUUAACAUCAAU",
+    "efficiency": 0.62,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGACAUUGGCAUCAUCGCU",
+    "target_site": "AGCGAUGAUGCCAAUGUCC",
+    "extended_target": "AUACCUGCGGAACCUGUCCAGCGAUGAUGCCAAUGUCCUGGUGUGGCACGCUCUCCU",
+    "efficiency": 0.65,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UAGAGGUCAACACAGUUGC",
+    "target_site": "GCAACUGUGUUGACCUCUA",
+    "extended_target": "GAGACCAUCCCUCAACAUCGCAACUGUGUUGACCUCUAUUCAGCUGCUCAUGUCAGA",
+    "efficiency": 0.85,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GACCUUUUGAACCGCCCUU",
+    "target_site": "AAGGGCGGUUCAAAAGGUC",
+    "extended_target": "GGCAAAUACAGCAAGAGGAAAGGGCGGUUCAAAAGGUCAGAUGGGAGCACCUCCUCA",
+    "efficiency": 0.43,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CGCCUUCUUGCUGCUGCCC",
+    "target_site": "GGGCAGCAGCAAGAAGGCG",
+    "extended_target": "AGUCGGCGGGCGGCACCAAGGGCAGCAGCAAGAAGGCGUCGGCGGCGCAGCUGCGGA",
+    "efficiency": 0.44,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGAUGCCCAGCUCAGCCGU",
+    "target_site": "ACGGCUGAGCUGGGCAUCC",
+    "extended_target": "CGUGCUCAAGAGGGACUGGACGGCUGAGCUGGGCAUCCGACACGUACUGCUGACCAU",
+    "efficiency": 0.39,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGCAUAUGUUACCCUGGGU",
+    "target_site": "ACCCAGGGUAACAUAUGCC",
+    "extended_target": "CUAUCACCCCAACGUGGACACCCAGGGUAACAUAUGCCUGGACAUCCUGAAGGAAAA",
+    "efficiency": 0.3,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGCGCGGCCACCACCUGGU",
+    "target_site": "ACCAGGUGGUGGCCGCGCC",
+    "extended_target": "AUCCACUCGGGGGCUGUGAACCAGGUGGUGGCCGCGCCCAUCCUCUGCCUCUUCUGG",
+    "efficiency": 0.43,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UACCUGGUGCACCUUCCAU",
+    "target_site": "AUGGAAGGUGCACCAGGUA",
+    "extended_target": "UACACAGUGGAUUGUAGACAUGGAAGGUGCACCAGGUACCUUAUAUGAAGGGGAAAA",
+    "efficiency": 0.64,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GAGUCUCCUGGCUCCGUGU",
+    "target_site": "ACACGGAGCCAGGAGACUC",
+    "extended_target": "GGGAGCCGAAACUCUGUCUACACGGAGCCAGGAGACUCGUGUGUGGACAUGGAGACA",
+    "efficiency": 0.36,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AGAGUCAAAAGGAUAUCGA",
+    "target_site": "UCGAUAUCCUUUUGACUCU",
+    "extended_target": "UUCUAUUUAAAUUUAGUAGUCGAUAUCCUUUUGACUCUCCUCAGGUCAUGUUUACUG",
+    "efficiency": 0.56,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CCGCCUCCUCGUUGAGUGC",
+    "target_site": "GCACUCAACGAGGAGGCGG",
+    "extended_target": "CCACCCUAACCCCGAGUCUGCACUCAACGAGGAGGCGGGCCGCCUGCUCUUGGAGAA",
+    "efficiency": 0.36,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GUAGCGGGUGAAGUGCAGC",
+    "target_site": "GCUGCACUUCACCCGCUAC",
+    "extended_target": "CCGAGUACAGCUGCCGCGAGCUGCACUUCACCCGCUACGUGACCGAUGGGCCGUGCC",
+    "efficiency": 0.56,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CGGGGCAGAAUGUCUGCGA",
+    "target_site": "UCGCAGACAUUCUGCCCCG",
+    "extended_target": "GUUACAGAUGUGGCUGUGGUCGCAGACAUUCUGCCCCGUGCUGUACGCGUGGAACGA",
+    "efficiency": 0.35,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUCCAAAUCAAAGUUAUUU",
+    "target_site": "AAAUAACUUUGAUUUGGAA",
+    "extended_target": "UUUUUUGUUUGXUUGGGGAAAAUAACUUUGAUUUGGAAAAUGCGCUCACAUACGGGA",
+    "efficiency": 0.52,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UUUGACAGGAAAGUCAAAU",
+    "target_site": "AUUUGACUUUCCUGUCAAA",
+    "extended_target": "GUACCAAUGAGCUUCCCCUAUUUGACUUUCCUGUCAAAGAGGUUUUUGAACUGCUCG",
+    "efficiency": 0.4,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "ACGCAGCGGCCAGUGAGGA",
+    "target_site": "UCCUCACUGGCCGCUGCGU",
+    "extended_target": "CGCUUGCCAGGUGGGGGGAUCCUCACUGGCCGCUGCGUGAACUACAGCUCUGUGCUC",
+    "efficiency": 0.12,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CAUUUCCCUCAGUUUGUCC",
+    "target_site": "GGACAAACUGAGGGAAAUG",
+    "extended_target": "AGAAGGCCACCAGUGCAGUGGACAAACUGAGGGAAAUGCAGAAGUUCUUCGGUUUGC",
+    "efficiency": 0.62,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UAGAAGCCCUCAUCAGGAC",
+    "target_site": "GUCCUGAUGAGGGCUUCUA",
+    "extended_target": "AACUUCAAGCUGGUCAUCUGUCCUGAUGAGGGCUUCUACAAGAGUGGGAAGUUUGUG",
+    "efficiency": 0.6,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CAGCCCUCCAGCUCAUUCU",
+    "target_site": "AGAAUGAGCUGGAGGGCUG",
+    "extended_target": "CCGGUUCUGGGGCGCAAUAAGAAUGAGCUGGAGGGCUGGGGACAAGGCGUCUACAUC",
+    "efficiency": 0.56,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AAACUCUUUUCUCAUAUUC",
+    "target_site": "GAAUAUGAGAAAAGAGUUU",
+    "extended_target": "UUAUCAGGAAAACAAACGAGAAUAUGAGAAAAGAGUUUCGGCCAUUGUUGAACAAAG",
+    "efficiency": 0.59,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UAAAUUCUUGUUGUAAAUG",
+    "target_site": "CAUUUACAACAAGAAUUUA",
+    "extended_target": "UUCAAACCACCUAAGGUUGCAUUUACAACAAGAAUUUAUCAUCCAAAUAUUAACAGU",
+    "efficiency": 0.52,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CGCAGUACUCGGCCAGCGU",
+    "target_site": "ACGCUGGCCGAGUACUGCG",
+    "extended_target": "CGGCGUGAAGGUGCCCACCACGCUGGCCGAGUACUGCGUGAAGACCAAGGCGCCGGC",
+    "efficiency": 0.39,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AUAGCAGUGAACAAAUGGA",
+    "target_site": "UCCAUUUGUUCACUGCUAU",
+    "extended_target": "AAUUUCUAAAGUUCUUUUAUCCAUUUGUUCACUGCUAUGUGAUCCAAACCCAGAUGA",
+    "efficiency": 0.73,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CGACGGCAUUGAAAGACAG",
+    "target_site": "CUGUCUUUCAAUGCCGUCG",
+    "extended_target": "GCAGUUCCUCUAUCACCUCCUGUCUUUCAAUGCCGUCGAUUACUUUUGCUUCACCAA",
+    "efficiency": 0.35,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CCGCUUCACGUUGCGCCUC",
+    "target_site": "GAGGCGCAACGUGAAGCGG",
+    "extended_target": "UGGCGCGCUCGGCCGCCGAGAGGCGCAACGUGAAGCGGCAUCAGGCCUACGAGUUCC",
+    "efficiency": 0.44,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UCGCAGGUCAUCCAUUUGG",
+    "target_site": "CCAAAUGGAUGACCUGCGA",
+    "extended_target": "CAUGUUGGCAAGAUAAAGACCAAAUGGAUGACCUGCGAGCUCAAAUAUUAGGUGGAG",
+    "efficiency": 0.71,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGUGACUGAUAUGAGCAUU",
+    "target_site": "AAUGCUCAUAUCAGUCACA",
+    "extended_target": "CUUGAAAAUGACAGCCUUAAAUGCUCAUAUCAGUCACAAAUCUAGGAUGUACUGUCU",
+    "efficiency": 0.57,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGUCUGGAGGUCCUGCUAU",
+    "target_site": "AUAGCAGGACCUCCAGACA",
+    "extended_target": "UACAGAAUUAAGAGGAGAAAUAGCAGGACCUCCAGACACACCAUAUGAAGGAGGAAG",
+    "efficiency": 0.52,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGGACUCCAGUUGUCUUUA",
+    "target_site": "UAAAGACAACUGGAGUCCC",
+    "extended_target": "UCAUCUGUCUGGACAUCCUUAAAGACAACUGGAGUCCCGCUUUGACUAUUUCAAAGG",
+    "efficiency": 0.33,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUGUAGGAAAAUGAAUUGU",
+    "target_site": "ACAAUUCAUUUUCCUACAG",
+    "extended_target": "AGGCGGUGUAUUCUUUUUGACAAUUCAUUUUCCUACAGACUACCCCUUCAAACCACC",
+    "efficiency": 0.57,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGGAAGCUGAUGCGCAGGU",
+    "target_site": "ACCUGCGCAUCAGCUUCCC",
+    "extended_target": "UACCACCUGAAAGCCUUCAACCUGCGCAUCAGCUUCCCGCCGGAGUAUCCGUUCAAG",
+    "efficiency": 0.53,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UAAAGGGUGGGGCGGAUUG",
+    "target_site": "CAAUCCGCCCCACCCUUUA",
+    "extended_target": "GGUGCCCACUUAGGAGUCCCAAUCCGCCCCACCCUUUACAGAACACCCAGGAAUUCU",
+    "efficiency": 0.6,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGAUCUCCCCUUGCGAAGC",
+    "target_site": "GCUUCGCAAGGGGAGAUCA",
+    "extended_target": "ACUGCAGACAUCAUAAUUGGCUUCGCAAGGGGAGAUCACGGAGACAACUUCCCAUUU",
+    "efficiency": 0.79,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AGCACCACAGCAGCAGGGU",
+    "target_site": "ACCCUGCUGCUGUGGUGCU",
+    "extended_target": "CAUCACCCAGUUCUUCCCCACCCUGCUGCUGUGGUGCUUCUCGGCCCUCCUUCCCAC",
+    "efficiency": 0.44,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "UGGAGCGGCUGGGUCUCGC",
+    "target_site": "GCGAGACCCAGCCGCUCCA",
+    "extended_target": "GCAGUUCAGAUGCGGACCAGCGAGACCCAGCCGCUCCAGAGCCUGAAGAACAAGAGG",
+    "efficiency": 0.52,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "CUCUUUUCUCAUAUUCUCG",
+    "target_site": "CGAGAAUAUGAGAAAAGAG",
+    "extended_target": "GCUUUAUCAGGAAAACAAACGAGAAUAUGAGAAAAGAGUUUCGGCCAUUGUUGAACA",
+    "efficiency": 0.55,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "AUAUCAUCCCCAACUGGAC",
+    "target_site": "GUCCAGUUGGGGAUGAUAU",
+    "extended_target": "CCAGCACAAUGUUCUGCAGGUCCAGUUGGGGAUGAUAUGUUUCAUUGGCAAGCCACA",
+    "efficiency": 0.66,
+    "cell_line": "h1299"
+  },
+  {
+    "sirna": "GGUUCAUCCAGCAGAGACU",
+    "target_site": "AGUCUCUGCUGGAUGAACC",
+    "extended_target": "UCUAUCUUAACAUCAAUUCAGUCUCUGCUGGAUGAACCGAAUCCUAACAGUCCAGCC",
+    "efficiency": 0.4,
+    "cell_line": "h1299"
+  }
+]

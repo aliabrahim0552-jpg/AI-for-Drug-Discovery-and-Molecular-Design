@@ -1,0 +1,9 @@
+# Tested with torch 2.13.0 (CPU build), transformers 5.15.1, and
+# scipy on Python 3.12. Install torch from the CPU wheel index first
+# if you don't have a CUDA GPU:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.2
+transformers>=4.40
+scipy>=1.10
+numpy>=1.24
+requests>=2.28

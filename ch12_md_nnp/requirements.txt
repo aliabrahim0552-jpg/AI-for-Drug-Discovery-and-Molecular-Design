@@ -1,0 +1,13 @@
+# Tested with openmm 8.6, openmm-ml (openmmml) 1.7, torchani 2.8.4,
+# pdbfixer 1.12.0, rdkit 2026.03.5, numpy 2.5.2 on Python 3.12. No GPU
+# is required -- see chapter.md Section 12.2's note on this book's
+# own CPU-only authoring environment. ANI-2x's real pretrained weights
+# (~1 MB) are downloaded and cached automatically by torchani the
+# first time `MLPotential("ani2x")` is instantiated; no manual
+# download step is needed.
+openmm>=8.5
+openmmml>=1.4
+torchani>=2.2
+pdbfixer>=1.9
+rdkit>=2023.9
+numpy>=1.24

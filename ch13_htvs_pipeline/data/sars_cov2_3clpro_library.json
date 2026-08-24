@@ -1,0 +1,372 @@
+[
+  {
+    "pubchem_cid": "46861530",
+    "smiles": "O=C(Nc1ccc(N(Cc2ccsc2)C(=O)Cn2nnc3ccccc32)cc1)C1CC1",
+    "is_active": true,
+    "ic50_uM": 4.72,
+    "n_replicate_measurements": 2,
+    "pIC50": 5.3261,
+    "molecular_weight": 431.52,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "56973489",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1ccsc1)c1ccc(-c2ccccc2)cc1",
+    "is_active": false,
+    "ic50_uM": 24.0,
+    "n_replicate_measurements": 2,
+    "pIC50": 4.6198,
+    "molecular_weight": 424.53,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "56973495",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1ccsc1)c1ccc(-c2cccnc2)cc1",
+    "is_active": true,
+    "ic50_uM": 0.94,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.0269,
+    "molecular_weight": 425.52,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "56973497",
+    "smiles": "COc1ncccc1-c1ccc(N(Cc2ccsc2)C(=O)Cn2nnc3ccccc32)cc1",
+    "is_active": true,
+    "ic50_uM": 4.08,
+    "n_replicate_measurements": 2,
+    "pIC50": 5.3893,
+    "molecular_weight": 455.54,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "56973498",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1ccsc1)c1ccc(-c2ccncc2)cc1",
+    "is_active": true,
+    "ic50_uM": 1.83,
+    "n_replicate_measurements": 2,
+    "pIC50": 5.7375,
+    "molecular_weight": 425.52,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156026026",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1ccsc1)c1ccc(-c2cn[nH]c2)cc1",
+    "is_active": true,
+    "ic50_uM": 0.11,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.9586,
+    "molecular_weight": 414.49,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156026027",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1ccsc1)c1ccc(-c2cnc[nH]2)cc1",
+    "is_active": true,
+    "ic50_uM": 0.105,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.9788,
+    "molecular_weight": 414.49,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027210",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1ccsc1)c1ccccc1",
+    "is_active": false,
+    "ic50_uM": 19.3,
+    "n_replicate_measurements": 2,
+    "pIC50": 4.7144,
+    "molecular_weight": 348.43,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027211",
+    "smiles": "NC(=O)c1ccc(N(Cc2ccsc2)C(=O)Cn2nnc3ccccc32)cc1",
+    "is_active": true,
+    "ic50_uM": 0.41,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.3872,
+    "molecular_weight": 391.46,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027212",
+    "smiles": "O=C(NC1CC1)c1ccc(N(Cc2ccsc2)C(=O)Cn2nnc3ccccc32)cc1",
+    "is_active": false,
+    "ic50_uM": 16.245,
+    "n_replicate_measurements": 2,
+    "pIC50": 4.7893,
+    "molecular_weight": 431.52,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027213",
+    "smiles": "CS(=O)(=O)Nc1ccc(N(Cc2ccsc2)C(=O)Cn2nnc3ccccc32)cc1",
+    "is_active": true,
+    "ic50_uM": 1.505,
+    "n_replicate_measurements": 2,
+    "pIC50": 5.8225,
+    "molecular_weight": 441.54,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027214",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1ccsc1)c1ccc(NS(=O)(=O)C2CC2)cc1",
+    "is_active": true,
+    "ic50_uM": 8.375,
+    "n_replicate_measurements": 2,
+    "pIC50": 5.077,
+    "molecular_weight": 467.58,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027215",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1ccsc1)c1ccc(-c2ccccn2)cc1",
+    "is_active": true,
+    "ic50_uM": 1.15,
+    "n_replicate_measurements": 2,
+    "pIC50": 5.9393,
+    "molecular_weight": 425.52,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027216",
+    "smiles": "O=C1N=CC=CC1c1ccc(N(Cc2ccsc2)C(=O)Cn2nnc3ccccc32)cc1",
+    "is_active": true,
+    "ic50_uM": 0.85,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.0706,
+    "molecular_weight": 441.52,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027217",
+    "smiles": "Cn1cc(-c2ccc(N(Cc3ccsc3)C(=O)Cn3nnc4ccccc43)cc2)cn1",
+    "is_active": false,
+    "ic50_uM": 21.585,
+    "n_replicate_measurements": 2,
+    "pIC50": 4.6658,
+    "molecular_weight": 428.52,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027218",
+    "smiles": "Cn1cnc(-c2ccc(N(Cc3ccsc3)C(=O)Cn3nnc4ccccc43)cc2)c1",
+    "is_active": false,
+    "ic50_uM": 10.43,
+    "n_replicate_measurements": 2,
+    "pIC50": 4.9817,
+    "molecular_weight": 428.52,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027219",
+    "smiles": "CC(C)CCN(C(=O)Cn1nnc2ccccc21)c1ccc(-c2cccnc2)cc1",
+    "is_active": true,
+    "ic50_uM": 4.415,
+    "n_replicate_measurements": 2,
+    "pIC50": 5.3551,
+    "molecular_weight": 399.5,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027220",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(CC1CC1)c1ccc(-c2cccnc2)cc1",
+    "is_active": true,
+    "ic50_uM": 2.475,
+    "n_replicate_measurements": 2,
+    "pIC50": 5.6064,
+    "molecular_weight": 383.46,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027221",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(CC1CCC1)c1ccc(-c2cccnc2)cc1",
+    "is_active": true,
+    "ic50_uM": 0.805,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.0942,
+    "molecular_weight": 397.48,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027222",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(CC1CCCC1)c1ccc(-c2cccnc2)cc1",
+    "is_active": true,
+    "ic50_uM": 1.08,
+    "n_replicate_measurements": 2,
+    "pIC50": 5.9666,
+    "molecular_weight": 411.51,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027223",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(CC1CCOC1)c1ccc(-c2cccnc2)cc1",
+    "is_active": false,
+    "ic50_uM": 21.75,
+    "n_replicate_measurements": 2,
+    "pIC50": 4.6625,
+    "molecular_weight": 413.48,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027224",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1cscn1)c1ccc(-c2cccnc2)cc1",
+    "is_active": true,
+    "ic50_uM": 1.36,
+    "n_replicate_measurements": 2,
+    "pIC50": 5.8665,
+    "molecular_weight": 426.51,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027225",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1cccc(Cl)c1)c1ccc(-c2cccnc2)cc1",
+    "is_active": true,
+    "ic50_uM": 0.32,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.4949,
+    "molecular_weight": 453.93,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027226",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1ccc(F)c(Cl)c1)c1ccc(-c2cccnc2)cc1",
+    "is_active": true,
+    "ic50_uM": 6.7,
+    "n_replicate_measurements": 2,
+    "pIC50": 5.1739,
+    "molecular_weight": 471.92,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027227",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1cc(F)cc(Cl)c1)c1ccc(-c2cccnc2)cc1",
+    "is_active": true,
+    "ic50_uM": 0.0965,
+    "n_replicate_measurements": 2,
+    "pIC50": 7.0155,
+    "molecular_weight": 471.92,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027228",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1cc(Cl)cc(Cl)c1)c1ccc(-c2cccnc2)cc1",
+    "is_active": true,
+    "ic50_uM": 0.1435,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.8431,
+    "molecular_weight": 488.38,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027229",
+    "smiles": "Cc1cc(Cl)cc(CN(C(=O)Cn2nnc3ccccc32)c2ccc(-c3cccnc3)cc2)c1",
+    "is_active": true,
+    "ic50_uM": 0.365,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.4377,
+    "molecular_weight": 467.96,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027230",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1cncc(Cl)c1)c1ccc(-c2cccnc2)cc1",
+    "is_active": true,
+    "ic50_uM": 0.455,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.342,
+    "molecular_weight": 454.92,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027231",
+    "smiles": "O=C1N=CC=CC1c1ccc(N(Cc2cccc(Cl)c2)C(=O)Cn2nnc3ccccc32)cc1",
+    "is_active": true,
+    "ic50_uM": 0.7015,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.154,
+    "molecular_weight": 469.93,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027232",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1cccc(Cl)c1)c1ccc(-c2cn[nH]c2)cc1",
+    "is_active": true,
+    "ic50_uM": 0.302,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.52,
+    "molecular_weight": 442.91,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027233",
+    "smiles": "COc1cc(N(Cc2cccc(Cl)c2)C(=O)Cn2nnc3ccccc32)ccc1C1CNNC1",
+    "is_active": true,
+    "ic50_uM": 0.267,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.5735,
+    "molecular_weight": 476.97,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027234",
+    "smiles": "COc1cc(-c2cn[nH]c2)ccc1N(Cc1cccc(Cl)c1)C(=O)Cn1nnc2ccccc21",
+    "is_active": true,
+    "ic50_uM": 0.2025,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.6936,
+    "molecular_weight": 472.94,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027235",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1cccc(Cl)c1)c1ccc(-c2cn[nH]c2)nc1",
+    "is_active": true,
+    "ic50_uM": 0.3345,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.4756,
+    "molecular_weight": 443.9,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027236",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1cccc(Cl)c1)c1ccc(-c2cn[nH]c2)cn1",
+    "is_active": true,
+    "ic50_uM": 0.1925,
+    "n_replicate_measurements": 2,
+    "pIC50": 6.7156,
+    "molecular_weight": 443.9,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027237",
+    "smiles": "O=C(Cn1nnc2ccccc21)N(Cc1cccc(Cl)c1)c1ccc(-c2cnc[nH]2)cc1",
+    "is_active": true,
+    "ic50_uM": 0.0435,
+    "n_replicate_measurements": 2,
+    "pIC50": 7.3615,
+    "molecular_weight": 442.91,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027238",
+    "smiles": "O=C(Cc1cccnc1)N(Cc1cccc(Cl)c1)c1ccc(-c2cn[nH]c2)cc1",
+    "is_active": true,
+    "ic50_uM": 1.067,
+    "n_replicate_measurements": 2,
+    "pIC50": 5.9718,
+    "molecular_weight": 402.89,
+    "ani2x_compatible_elements": true
+  },
+  {
+    "pubchem_cid": "156027239",
+    "smiles": "O=C(Cc1cncnc1)N(Cc1cccc(Cl)c1)c1ccc(-c2cn[nH]c2)cc1",
+    "is_active": true,
+    "ic50_uM": 3.0825,
+    "n_replicate_measurements": 2,
+    "pIC50": 5.5111,
+    "molecular_weight": 403.87,
+    "ani2x_compatible_elements": true
+  }
+]

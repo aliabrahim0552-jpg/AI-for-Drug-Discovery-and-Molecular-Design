@@ -1,0 +1,4 @@
+# Tested with rdkit 2026.3.5 on Python 3.12. Any 2023.9+ release should work,
+# since this project only relies on stable RDKit APIs (rdFingerprintGenerator,
+# Crippen, Descriptors, Lipinski).
+rdkit>=2023.9.1

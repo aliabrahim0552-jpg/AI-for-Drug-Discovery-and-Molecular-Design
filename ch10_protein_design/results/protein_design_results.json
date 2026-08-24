@@ -1,0 +1,91 @@
+{
+  "ubiquitin_recovery_sweep": [
+    {
+      "temperature": 0.1,
+      "mean_recovery": 0.5631578947368421,
+      "std_recovery": 0.00984646680729983,
+      "recoveries": [
+        0.5526315789473685,
+        0.5526315789473685,
+        0.5789473684210527,
+        0.5657894736842105,
+        0.5657894736842105
+      ]
+    },
+    {
+      "temperature": 0.2,
+      "mean_recovery": 0.568421052631579,
+      "std_recovery": 0.012892051277806186,
+      "recoveries": [
+        0.5789473684210527,
+        0.5526315789473685,
+        0.5789473684210527,
+        0.5789473684210527,
+        0.5526315789473685
+      ]
+    },
+    {
+      "temperature": 0.3,
+      "mean_recovery": 0.5473684210526316,
+      "std_recovery": 0.03179748940419623,
+      "recoveries": [
+        0.5657894736842105,
+        0.5,
+        0.5921052631578947,
+        0.5526315789473685,
+        0.5263157894736842
+      ]
+    }
+  ],
+  "native_ubiquitin_sequence": "MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG",
+  "redesigned_ubiquitin_sequence": "MTIKVKFEDGTTLELEVEPDDTIAKLKEKIQEKTGIPPEEQQLIYKGKVLEDDKTLADYDIQEGDTIELKLVPKGG",
+  "native_ubiquitin_esmfold_ca_rmsd": {
+    "n_residues_compared": 76,
+    "global_ca_rmsd": 0.8273648133349829
+  },
+  "redesigned_ubiquitin_esmfold_timed_out": true,
+  "mdm2_p53_native_peptide": "ETFSDLWKLLPEN",
+  "mdm2_p53_designs": [
+    {
+      "sequence": "ETFEEIWAKLPQS",
+      "score": 0.9408656358718872,
+      "recovery": 0.46153846153846156,
+      "hotspot_recovery": 1.0,
+      "non_hotspot_recovery": 0.3
+    },
+    {
+      "sequence": "ETFEELWSQLPQS",
+      "score": 0.9537924528121948,
+      "recovery": 0.5384615384615384,
+      "hotspot_recovery": 1.0,
+      "non_hotspot_recovery": 0.4
+    },
+    {
+      "sequence": "ETFEELWSKLPQS",
+      "score": 0.8873271942138672,
+      "recovery": 0.5384615384615384,
+      "hotspot_recovery": 1.0,
+      "non_hotspot_recovery": 0.4
+    },
+    {
+      "sequence": "ETFEELWSKLPQS",
+      "score": 0.8843867182731628,
+      "recovery": 0.5384615384615384,
+      "hotspot_recovery": 1.0,
+      "non_hotspot_recovery": 0.4
+    },
+    {
+      "sequence": "MTFEELWALLPQS",
+      "score": 1.0183964967727661,
+      "recovery": 0.5384615384615384,
+      "hotspot_recovery": 1.0,
+      "non_hotspot_recovery": 0.4
+    }
+  ],
+  "mdm2_p53_hotspot_positions_0indexed": [
+    2,
+    6,
+    9
+  ],
+  "native_peptide_esmfold_timed_out": true
+}

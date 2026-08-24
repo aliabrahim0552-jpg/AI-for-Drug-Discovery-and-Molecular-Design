@@ -1,0 +1,96 @@
+{
+  "dataset": {
+    "source": "Huesken et al., 2005, Nat Biotechnol (via github.com/dimostzim/siRBench)",
+    "n_train": 2133,
+    "n_test": 228
+  },
+  "feature_columns": [
+    "gc_content",
+    "seed_gc_content",
+    "internal_4mer_repeats",
+    "pos1_is_AU",
+    "pos19_is_GC",
+    "duplex_energy_total",
+    "duplex_energy_5p_end",
+    "duplex_energy_3p_end",
+    "duplex_end_asymmetry",
+    "guide_self_mfe",
+    "guide_ensemble_diversity",
+    "target_unconstrained_mfe",
+    "target_opening_energy",
+    "design_heuristic_score"
+  ],
+  "results": {
+    "n_train": 2133,
+    "n_val": 322,
+    "n_test": 228,
+    "rule_based_baseline": {
+      "spearman_rho": 0.2668,
+      "spearman_p": 4.5e-05,
+      "pearson_r": 0.266,
+      "pearson_p": 4.7e-05,
+      "r2": -132.7246,
+      "rmse": 1.8316,
+      "mae": 1.5417
+    },
+    "random_forest": {
+      "spearman_rho": 0.5826,
+      "spearman_p": 0.0,
+      "pearson_r": 0.5669,
+      "pearson_p": 0.0,
+      "r2": 0.316,
+      "rmse": 0.131,
+      "mae": 0.1021,
+      "feature_importances": {
+        "pos1_is_AU": 0.2846,
+        "duplex_energy_total": 0.1223,
+        "target_unconstrained_mfe": 0.0832,
+        "duplex_end_asymmetry": 0.0709,
+        "pos19_is_GC": 0.0688,
+        "guide_self_mfe": 0.0645,
+        "target_opening_energy": 0.0643,
+        "guide_ensemble_diversity": 0.0616,
+        "duplex_energy_5p_end": 0.0577,
+        "duplex_energy_3p_end": 0.0477,
+        "seed_gc_content": 0.0366,
+        "gc_content": 0.0154,
+        "internal_4mer_repeats": 0.0119,
+        "design_heuristic_score": 0.0105
+      }
+    },
+    "xgboost": {
+      "spearman_rho": 0.5733,
+      "spearman_p": 0.0,
+      "pearson_r": 0.5537,
+      "pearson_p": 0.0,
+      "r2": 0.2979,
+      "rmse": 0.1327,
+      "mae": 0.1032,
+      "feature_importances": {
+        "pos1_is_AU": 0.4456,
+        "pos19_is_GC": 0.1072,
+        "design_heuristic_score": 0.0592,
+        "duplex_energy_5p_end": 0.0463,
+        "seed_gc_content": 0.0457,
+        "duplex_energy_total": 0.0445,
+        "guide_self_mfe": 0.0415,
+        "target_unconstrained_mfe": 0.0373,
+        "duplex_end_asymmetry": 0.0355,
+        "gc_content": 0.0319,
+        "target_opening_energy": 0.0297,
+        "duplex_energy_3p_end": 0.0297,
+        "guide_ensemble_diversity": 0.0249,
+        "internal_4mer_repeats": 0.0211
+      }
+    },
+    "pytorch_mlp": {
+      "spearman_rho": 0.5425,
+      "spearman_p": 0.0,
+      "pearson_r": 0.522,
+      "pearson_p": 0.0,
+      "r2": 0.2601,
+      "rmse": 0.1362,
+      "mae": 0.106
+    }
+  }
+}

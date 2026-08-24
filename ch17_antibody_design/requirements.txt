@@ -1,0 +1,18 @@
+# Tested with torch 2.13.0 (CPU build), numpy 2.5.2, biopython 1.88,
+# requests 2.34.2 on Python 3.12. No GPU and no local RFdiffusion/
+# AlphaFold3 download is required -- see chapter.md Section 17.1's
+# feasibility note. The real ProteinMPNN model code
+# (third_party/proteinmpnn/) is vendored directly in this chapter, not
+# pip-installed -- see third_party/proteinmpnn/NOTICE.md.
+#
+# The official PRODIGY tool's own SASA dependency, `freesasa`, has no
+# prebuilt wheel for Python 3.12 on win_amd64 (verified directly
+# against PyPI: wheels exist only up to cp311) and its source
+# distribution requires an MSVC build toolchain not present in this
+# environment; BioPython's own Shrake-Rupley SASA implementation
+# (already a dependency below) is used instead -- see chapter.md
+# Section 17.2, Stage 5.
+torch>=2.2
+numpy>=1.24
+biopython>=1.81
+requests>=2.28

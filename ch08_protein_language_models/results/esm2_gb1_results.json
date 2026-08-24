@@ -1,0 +1,53 @@
+[
+  {
+    "model": "facebook/esm2_t6_8M_UR50D",
+    "method": "masked_marginal",
+    "n": 76,
+    "spearman_rho": 0.09490088858509912,
+    "spearman_pvalue": 0.4148101845805234,
+    "n_high_confidence": 27,
+    "spearman_rho_high_confidence": -0.12759462759462756,
+    "spearman_pvalue_high_confidence": 0.5259311045393342
+  },
+  {
+    "model": "facebook/esm2_t6_8M_UR50D",
+    "method": "embedding_cosine_distance",
+    "n": 76,
+    "spearman_rho": 0.11127819548872181,
+    "spearman_pvalue": 0.33856747540022164
+  },
+  {
+    "model": "facebook/esm2_t12_35M_UR50D",
+    "method": "masked_marginal",
+    "n": 76,
+    "spearman_rho": 0.1836226930963773,
+    "spearman_pvalue": 0.11233423902218813,
+    "n_high_confidence": 27,
+    "spearman_rho_high_confidence": 0.0036630036630036626,
+    "spearman_pvalue_high_confidence": 0.9855328397301536
+  },
+  {
+    "model": "facebook/esm2_t12_35M_UR50D",
+    "method": "embedding_cosine_distance",
+    "n": 76,
+    "spearman_rho": 0.08732740943267259,
+    "spearman_pvalue": 0.4531823294104902
+  },
+  {
+    "model": "facebook/esm2_t30_150M_UR50D",
+    "method": "masked_marginal",
+    "n": 76,
+    "spearman_rho": 0.20776486671223515,
+    "spearman_pvalue": 0.07171217340298532,
+    "n_high_confidence": 27,
+    "spearman_rho_high_confidence": -0.0036630036630036626,
+    "spearman_pvalue_high_confidence": 0.9855328397301536
+  },
+  {
+    "model": "facebook/esm2_t30_150M_UR50D",
+    "method": "embedding_cosine_distance",
+    "n": 76,
+    "spearman_rho": 0.31403964456596034,
+    "spearman_pvalue": 0.005733903976234987
+  }
+]

@@ -1,0 +1,189 @@
+{
+  "target": {
+    "chembl_id": "CHEMBL203",
+    "pdb_id": "1M17",
+    "receptor_validation": {
+      "n_protein_atoms": 2511,
+      "n_native_ligand_atoms": 29,
+      "valid": true
+    }
+  },
+  "dataset": {
+    "n_compounds": 1508,
+    "n_active": 860
+  },
+  "qsar": {
+    "n_train": 1206,
+    "n_test": 302,
+    "rmse_pic50": 1.0402,
+    "mae_pic50": 0.7485,
+    "r2": 0.4512,
+    "spearman_rho": 0.7276,
+    "y_mean": 6.266727924346924,
+    "y_std": 1.463810920715332
+  },
+  "generative": {
+    "n_pretrain_compounds": 842,
+    "vocab_size": 42,
+    "final_mean_reward": 0.2953,
+    "pre_rl_mean_pic50": 1.932,
+    "post_rl_mean_pic50": 2.122,
+    "post_rl_valid_frac": 0.995,
+    "post_rl_unique_frac": 0.9899,
+    "post_rl_novel_frac": 1.0
+  },
+  "redocking_validation": {
+    "n_replicates": 3,
+    "replicates": [
+      {
+        "affinity_kcal_mol": -7.736,
+        "rmsd_to_crystal_A": 2.623,
+        "correct_pose": false
+      },
+      {
+        "affinity_kcal_mol": -7.725,
+        "rmsd_to_crystal_A": 2.61,
+        "correct_pose": false
+      },
+      {
+        "affinity_kcal_mol": -7.451,
+        "rmsd_to_crystal_A": 1.635,
+        "correct_pose": true
+      }
+    ],
+    "rmsd_to_crystal_A_mean": 2.289,
+    "n_correct_pose": 1
+  },
+  "docking_box": {
+    "center": [
+      22.013689655172417,
+      0.2528275862068965,
+      52.79403448275863
+    ],
+    "size": [
+      22.5,
+      22.5,
+      22.5
+    ]
+  },
+  "candidates": [
+    {
+      "molecule_id": "GEN_006",
+      "smiles": "NCCN1CNc2c(ccc3[nH]c4c(c23)C=CC4CBr)NN1",
+      "pred_pic50": 5.108,
+      "docking": {
+        "affinity_kcal_mol": -8.452,
+        "wall_time_s": 45.97
+      },
+      "ani2x_compatible_elements": false,
+      "md": {
+        "skipped": true,
+        "reason": "elements outside ANI-2x's trained coverage"
+      }
+    },
+    {
+      "molecule_id": "GEN_002",
+      "smiles": "C=CC(Br)=CNc1cncncc2c([nH]cccn1)=C=2",
+      "pred_pic50": 6.149,
+      "docking": {
+        "affinity_kcal_mol": -7.253,
+        "wall_time_s": 32.85
+      },
+      "ani2x_compatible_elements": false,
+      "md": {
+        "skipped": true,
+        "reason": "elements outside ANI-2x's trained coverage"
+      }
+    },
+    {
+      "molecule_id": "GEN_004",
+      "smiles": "CC(=CCCNC1=CN1N)Nc1cccc(Br)c1",
+      "pred_pic50": 5.524,
+      "docking": {
+        "affinity_kcal_mol": -6.68,
+        "wall_time_s": 74.86
+      },
+      "ani2x_compatible_elements": false,
+      "md": {
+        "skipped": true,
+        "reason": "elements outside ANI-2x's trained coverage"
+      }
+    },
+    {
+      "molecule_id": "GEN_000",
+      "smiles": "Brc1cccc(Nc2ncnc3c2CCOC=C3)c1",
+      "pred_pic50": 6.631,
+      "docking": {
+        "affinity_kcal_mol": -6.519,
+        "wall_time_s": 111.32
+      },
+      "ani2x_compatible_elements": false,
+      "md": {
+        "skipped": true,
+        "reason": "elements outside ANI-2x's trained coverage"
+      }
+    },
+    {
+      "molecule_id": "GEN_003",
+      "smiles": "Cc1c[nH]c2cncnc2[nH]c2c1=CC=2",
+      "pred_pic50": 5.986,
+      "docking": {
+        "affinity_kcal_mol": -5.413,
+        "wall_time_s": 53.71
+      },
+      "ani2x_compatible_elements": true,
+      "md": {
+        "n_atoms": 25,
+        "n_frames": 40,
+        "wall_time_s": 61.35,
+        "rmsd_mean_A": 0.551,
+        "rmsd_max_A": 0.8942,
+        "stable": true
+      }
+    },
+    {
+      "molecule_id": "GEN_007",
+      "smiles": "C=c1c(NC2=CCON(C)CC2)cn2cccc12",
+      "pred_pic50": 5.062,
+      "docking": {
+        "affinity_kcal_mol": -5.18,
+        "wall_time_s": 110.39
+      },
+      "ani2x_compatible_elements": true,
+      "md": {
+        "n_atoms": 35,
+        "n_frames": 40,
+        "wall_time_s": 80.82,
+        "rmsd_mean_A": 0.9379,
+        "rmsd_max_A": 1.3654,
+        "stable": true
+      }
+    },
+    {
+      "molecule_id": "GEN_005",
+      "smiles": "C=C(C)F",
+      "pred_pic50": 5.36,
+      "docking": {
+        "affinity_kcal_mol": -2.674,
+        "wall_time_s": 3.09
+      },
+      "ani2x_compatible_elements": true,
+      "md": {
+        "n_atoms": 9,
+        "n_frames": 40,
+        "wall_time_s": 42.29,
+        "rmsd_mean_A": 0.7742,
+        "rmsd_max_A": 1.3607,
+        "stable": true
+      }
+    },
+    {
+      "molecule_id": "GEN_001",
+      "smiles": "Brc1cc2ccc1C1COC=Cc3ncnc(c31)N2",
+      "pred_pic50": 6.265,
+      "docking": {
+        "error": "3D embedding or PDBQT preparation failed"
+      }
+    }
+  ]
+}

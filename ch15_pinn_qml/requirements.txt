@@ -1,0 +1,12 @@
+# Tested with torch 2.13.0+cpu, numpy 2.5.2, and pennylane 0.45.1 on
+# Python 3.12. PennyLane's own differentiable Hartree-Fock backend
+# (method="dhf") is used to build every molecular Hamiltonian, so no
+# external quantum-chemistry package (PySCF, Psi4) is required --
+# PySCF has no prebuilt wheel for this chapter's Windows authoring
+# environment and needs a C/C++ toolchain (cmake + nmake/gcc) to build
+# from source, a real, disclosed tooling constraint (see chapter.md
+# Section 15.2), the same category of environment-driven substitution
+# Chapter 11 made for DiffDock and Chapter 13 made for AutoDock Vina.
+torch>=2.0
+numpy>=1.24
+pennylane>=0.35

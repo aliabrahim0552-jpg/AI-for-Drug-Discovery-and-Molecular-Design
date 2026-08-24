@@ -1,0 +1,26 @@
+{
+  "model_version": "1.0.0",
+  "trained_at_utc": "2026-08-22T17:09:11.797185+00:00",
+  "target_chembl_id": "CHEMBL240",
+  "threshold_nm": 10000.0,
+  "n_training_compounds": 1765,
+  "n_blockers": 1307,
+  "featurization": "Morgan/ECFP4, radius=2, 2048 bits (RDKit rdFingerprintGenerator)",
+  "held_out_scaffold_split_metrics": {
+    "n_train": 1412,
+    "n_test": 353,
+    "accuracy": 0.7564,
+    "balanced_accuracy": 0.6071,
+    "precision": 0.8108,
+    "recall": 0.8889,
+    "f1": 0.8481,
+    "roc_auc": 0.7518
+  },
+  "sha256_model_file": "2cd93d5fb420c64666477c582dc54c6daf7fa1ed9d2e1dce9d591732d27a7bd7",
+  "library_versions": {
+    "python": "3.12.10",
+    "rdkit": "2026.03.5",
+    "scikit_learn": "1.9.0",
+    "xgboost": "3.4.1"
+  }
+}

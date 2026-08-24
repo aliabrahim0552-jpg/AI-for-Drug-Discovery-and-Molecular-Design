@@ -1,0 +1,11 @@
+# Tested with torch 2.13.0 (CPU build), numpy 2.5.2, scipy 1.18.0,
+# biopython 1.88, requests 2.34.2 on Python 3.12. No GPU and no local
+# ESMFold/RFdiffusion download is required -- see chapter.md Section
+# 10.4's feasibility note. The real ProteinMPNN model code
+# (third_party/proteinmpnn/) is vendored directly in this chapter, not
+# pip-installed -- see third_party/proteinmpnn/NOTICE.md.
+torch>=2.2
+numpy>=1.24
+scipy>=1.10
+biopython>=1.81
+requests>=2.28

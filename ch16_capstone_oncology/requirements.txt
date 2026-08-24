@@ -1,0 +1,20 @@
+# Tested with torch 2.13.0+cpu, torch_geometric 2.8.0.post1, rdkit
+# 2026.03.5, selfies 2.1.1, scipy 1.18.0, numpy 2.5.2, requests 2.34.2,
+# meeko 0.7.1, openmm 8.6, openmm-ml (openmmml) 1.7, and torchani 2.8.4
+# on Python 3.12. vina>=1.2.5 on platforms with a prebuilt wheel
+# (manylinux/musllinux/macOS); this chapter's own authoring environment
+# (Windows, no `vina` wheel -- see Chapter 11's feasibility note) used
+# the official standalone Vina CLI binary via the VINA_EXECUTABLE
+# environment variable instead -- see README.md.
+torch>=2.0
+torch_geometric>=2.5
+rdkit>=2023.9
+selfies>=2.1
+scipy>=1.10
+numpy>=1.24
+requests>=2.28
+meeko>=0.6
+openmm>=8.5
+openmmml>=1.4
+torchani>=2.2
+vina>=1.2.5; sys_platform != "win32"

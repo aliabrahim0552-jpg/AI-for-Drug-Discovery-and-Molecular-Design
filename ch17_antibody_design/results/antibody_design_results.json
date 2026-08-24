@@ -1,0 +1,362 @@
+{
+  "stage1_hotspot_identification": {
+    "ace2_epitope_residues": [
+      417,
+      446,
+      449,
+      453,
+      455,
+      456,
+      473,
+      475,
+      476,
+      484,
+      486,
+      487,
+      489,
+      493,
+      496,
+      498,
+      500,
+      501,
+      502,
+      505
+    ],
+    "n_ace2_epitope_residues": 20,
+    "nanobody_epitope_residues_on_rbd": [
+      351,
+      403,
+      405,
+      406,
+      417,
+      446,
+      447,
+      449,
+      450,
+      452,
+      453,
+      455,
+      470,
+      471,
+      472,
+      482,
+      483,
+      484,
+      485,
+      486,
+      490,
+      492,
+      493,
+      494,
+      496,
+      498,
+      501,
+      502,
+      505
+    ],
+    "n_nanobody_epitope_residues": 29,
+    "nanobody_paratope_residues": [
+      26,
+      27,
+      28,
+      30,
+      31,
+      32,
+      33,
+      37,
+      47,
+      50,
+      52,
+      53,
+      54,
+      55,
+      56,
+      59,
+      60,
+      62,
+      65,
+      77,
+      99,
+      100,
+      101,
+      102,
+      103,
+      105,
+      107
+    ],
+    "n_nanobody_paratope_residues": 27,
+    "overlap_residues": [
+      417,
+      446,
+      449,
+      453,
+      455,
+      484,
+      486,
+      493,
+      496,
+      498,
+      501,
+      502,
+      505
+    ],
+    "n_overlap_residues": 13,
+    "overlap_fraction_of_ace2_epitope": 0.65,
+    "overlap_fraction_of_nanobody_epitope": 0.4482758620689655
+  },
+  "stage3_nanobody_redesign": {
+    "native_sequence": "QVQLVESGGGLVQAGGSLRLSCAASGFPVYRDRMAWYRQAPGKEREWVAAIYSAGQQTRYADSVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCNVKDVGHHYEYYDYWGQGTQVTVSA",
+    "temperature_sweep": [
+      {
+        "temperature": 0.1,
+        "mean_recovery": 0.5685950413223141,
+        "std_recovery": 0.020511857266100584,
+        "designs": [
+          {
+            "sequence": "SISLTESGGGTVPAGGSTTLTCQLSGAPVNTAQMSWWRQAPGQEREWVASIHSAGKKTRYHPDVKGRFTISRDESSNTVTLKMSNLKPEDTAVYYCSLRTVDENDNLTTHYGQGTPLTVLP",
+            "score": 0.8367548584938049,
+            "recovery": 0.5785123966942148
+          },
+          {
+            "sequence": "SISLTESGGGTVKAGGSTTLTCKVSGMPVNTAKMSWWRQAPGQEMEWVASIYSAGPKTRYHPAVKGRFTISIDEANNTVTLKMSNLKPEDTAVYYCKVTVEDENDNLTTVLGQGVKLTVTA",
+            "score": 0.7744520902633667,
+            "recovery": 0.5785123966942148
+          },
+          {
+            "sequence": "SISLTESGGGTVAAGGSTTLTCTITGAPVNRAKVSWYKQAPGKEEEWVASIYSAGTKTRYHPSVQGRFTISRDEANNTVTLQMSNLKPEDTAVYYCRIVTEDENDNLTTVYGQGTPLTVLA",
+            "score": 0.806832492351532,
+            "recovery": 0.5950413223140496
+          },
+          {
+            "sequence": "SISLTESGGGTVPKGGSTTLTCKVTGMPVNTAKMSWWRQAPGQEKTFVASIHSAGKKTRYHPDVKGRFTISRDEANNTVTLQMSNLQPEDTAVYYCRVEVTDENDNITTIEGQGVPLTVLE",
+            "score": 0.794719398021698,
+            "recovery": 0.5371900826446281
+          },
+          {
+            "sequence": "SISLTESGGGTVAAGGSTTLTCSVSGAPVDTAKMSWWRQAPGQERTFVASIYSAGPKTRYAPEVKGRVTISRNVANNTVTLNMSNLTPADTAVYYCRIVTEDENNNLTTIYGQGVQLTVTA",
+            "score": 0.816853940486908,
+            "recovery": 0.5537190082644629
+          }
+        ],
+        "hotspot_recovery": [
+          {
+            "n_hotspot_positions": 27,
+            "n_non_hotspot_positions": 94,
+            "hotspot_recovery": 0.4074074074074074,
+            "non_hotspot_recovery": 0.6276595744680851
+          },
+          {
+            "n_hotspot_positions": 27,
+            "n_non_hotspot_positions": 94,
+            "hotspot_recovery": 0.4074074074074074,
+            "non_hotspot_recovery": 0.6276595744680851
+          },
+          {
+            "n_hotspot_positions": 27,
+            "n_non_hotspot_positions": 94,
+            "hotspot_recovery": 0.4444444444444444,
+            "non_hotspot_recovery": 0.6382978723404256
+          },
+          {
+            "n_hotspot_positions": 27,
+            "n_non_hotspot_positions": 94,
+            "hotspot_recovery": 0.3333333333333333,
+            "non_hotspot_recovery": 0.5957446808510638
+          },
+          {
+            "n_hotspot_positions": 27,
+            "n_non_hotspot_positions": 94,
+            "hotspot_recovery": 0.37037037037037035,
+            "non_hotspot_recovery": 0.6063829787234043
+          }
+        ],
+        "mean_paratope_recovery": 0.39259259259259255,
+        "mean_framework_recovery": 0.6191489361702128
+      },
+      {
+        "temperature": 0.2,
+        "mean_recovery": 0.5619834710743802,
+        "std_recovery": 0.01568071567025641,
+        "designs": [
+          {
+            "sequence": "SISLVESGGGTVKAGGSTTLTCQLSGAPVNTAKMSWWKQAPGKDKEFVASIHSAGKPTTYHPDVKGRFTISRDESSNTVTLKMSNLKPEDTAVYYCQLTTVDENDNLTTHYGQGTKLTVLA",
+            "score": 0.8739698529243469,
+            "recovery": 0.5619834710743802
+          },
+          {
+            "sequence": "AVSLTESGGGTVKTGGSTTLTCKVSGMPVNTAKFSWWRQAPGQEMEFVASIYSAGPKTRYHPKVKGRFTISIDEANNTVTLKMSNLKPEDTAVYYCKVTIEDENDNLITVLGQGVKLIVEA",
+            "score": 0.8160849213600159,
+            "recovery": 0.5537190082644629
+          },
+          {
+            "sequence": "DIVLTESGGGTVAAGGSTTLTCAITGAPVNTAKVSWYKQAPGQERTWVASIYSAGPKTRYHPDVQGRFTISRNEANNTVTLQMSNLKPEDTAVYYCRLVTENENDELTEVFGQGTPLTVLA",
+            "score": 0.8524130582809448,
+            "recovery": 0.5785123966942148
+          },
+          {
+            "sequence": "SISLTESGGGVVPKGGSTTLTCKVSGMPVNTAKMSWWRQAPGQSRTFVASIHSAGKKTSYHPAVKGRFTISRDAANNTVTLQMSNLQPEDTAVYYCRVEVTDENDNVTEVYGQGVPLTVLE",
+            "score": 0.8361048698425293,
+            "recovery": 0.5371900826446281
+          },
+          {
+            "sequence": "SISLTESGGGTVSAGGSTTLTCSVSGAPVDTAKMSWWRQAPGQERTFVASIYSAGPKTRYAPEVKGRFTISRDVANNTVTLNMSNLTPADTAVYYCQIQTVDENNNLTTHYGQGVQLTVTA",
+            "score": 0.8355134129524231,
+            "recovery": 0.5785123966942148
+          }
+        ],
+        "hotspot_recovery": [
+          {
+            "n_hotspot_positions": 27,
+            "n_non_hotspot_positions": 94,
+            "hotspot_recovery": 0.3333333333333333,
+            "non_hotspot_recovery": 0.6276595744680851
+          },
+          {
+            "n_hotspot_positions": 27,
+            "n_non_hotspot_positions": 94,
+            "hotspot_recovery": 0.37037037037037035,
+            "non_hotspot_recovery": 0.6063829787234043
+          },
+          {
+            "n_hotspot_positions": 27,
+            "n_non_hotspot_positions": 94,
+            "hotspot_recovery": 0.4074074074074074,
+            "non_hotspot_recovery": 0.6276595744680851
+          },
+          {
+            "n_hotspot_positions": 27,
+            "n_non_hotspot_positions": 94,
+            "hotspot_recovery": 0.2962962962962963,
+            "non_hotspot_recovery": 0.6063829787234043
+          },
+          {
+            "n_hotspot_positions": 27,
+            "n_non_hotspot_positions": 94,
+            "hotspot_recovery": 0.4074074074074074,
+            "non_hotspot_recovery": 0.6276595744680851
+          }
+        ],
+        "mean_paratope_recovery": 0.362962962962963,
+        "mean_framework_recovery": 0.6191489361702127
+      },
+      {
+        "temperature": 0.3,
+        "mean_recovery": 0.5603305785123966,
+        "std_recovery": 0.02834120363550785,
+        "designs": [
+          {
+            "sequence": "SVSLVESGGGTVKAGGSTTLTCQVSGMPVNTAKMSWWKQAPGKDKEFVASIHLAGKPTTYAEEVKGRYTISRDESSNTVTLKISNLKPEDTAVYYCQVTTVDENDNEITHYGQGTKLTVLA",
+            "score": 0.901280403137207,
+            "recovery": 0.5619834710743802
+          },
+          {
+            "sequence": "AVSLTESGGGTVPTGGSTTLTCKVSGMPVNTAKFSWWRQAPGQTQEFVASIYSAGPKTRYHPAVKGRFTISIDEANNTVTLHMSNLRPEDTAVYYCKVTISDENDNLVTVLGQGVQLVVTP",
+            "score": 0.847198486328125,
+            "recovery": 0.5371900826446281
+          },
+          {
+            "sequence": "DIVLVESGGGTVDEGGSTTLTCAISGAPVNTAKVSWYKQAPGQERTWVASIHSAGPKTRYHPDVKGRFTISRNEANNTVTLQMSNLKPEDTAVYYCSLVTETENDELVEVFGQGTELTVKA",
+            "score": 0.8937146067619324,
+            "recovery": 0.5867768595041323
+          },
+          {
+            "sequence": "SISLTESGGGVVEKGGSTTLTCKVSGMPVQTAKMSWWRQAPGESRRFVSSIHSAGTKTSYAPEVKGRFTISTDAANNTVTLNISNLQPEDTAVYYCRVEVTTENDERIEVYGQGVTLTVKE",
+            "score": 0.8920977115631104,
+            "recovery": 0.5206611570247934
+          },
+          {
+            "sequence": "QISLTESGGGTVSEGGSTTLSCQISGAPVDTAKMSWWRQAPGQERRFVASIYREGEKTRYAPEVKGRFTISRDAANNTVFLNMSNLKPEDTAVYYCQITTVNENNEQTLHLGQGVQLTVTA",
+            "score": 0.8970266580581665,
+            "recovery": 0.5950413223140496
+          }
+        ],
+        "hotspot_recovery": [
+          {
+            "n_hotspot_positions": 27,
+            "n_non_hotspot_positions": 94,
+            "hotspot_recovery": 0.2962962962962963,
+            "non_hotspot_recovery": 0.6382978723404256
+          },
+          {
+            "n_hotspot_positions": 27,
+            "n_non_hotspot_positions": 94,
+            "hotspot_recovery": 0.37037037037037035,
+            "non_hotspot_recovery": 0.5851063829787234
+          },
+          {
+            "n_hotspot_positions": 27,
+            "n_non_hotspot_positions": 94,
+            "hotspot_recovery": 0.4074074074074074,
+            "non_hotspot_recovery": 0.6382978723404256
+          },
+          {
+            "n_hotspot_positions": 27,
+            "n_non_hotspot_positions": 94,
+            "hotspot_recovery": 0.2962962962962963,
+            "non_hotspot_recovery": 0.5851063829787234
+          },
+          {
+            "n_hotspot_positions": 27,
+            "n_non_hotspot_positions": 94,
+            "hotspot_recovery": 0.3333333333333333,
+            "non_hotspot_recovery": 0.6702127659574468
+          }
+        ],
+        "mean_paratope_recovery": 0.3407407407407407,
+        "mean_framework_recovery": 0.623404255319149
+      }
+    ],
+    "best_design_t0.1": "SISLTESGGGTVPAGGSTTLTCQLSGAPVNTAQMSWWRQAPGQEREWVASIHSAGKKTRYHPDVKGRFTISRDESSNTVTLKMSNLKPEDTAVYYCSLRTVDENDNLTTHYGQGTPLTVLP"
+  },
+  "redesigned_esmfold_ca_rmsd": {
+    "n_residues_compared": 121,
+    "global_ca_rmsd": 1.2405732870447082
+  },
+  "esmfold_note": "Both the native and redesigned single-chain folds required multiple real attempts (transient HTTP 504 from the shared, rate-limited ESM Atlas API, not a per-request client timeout: failures returned in 11-30 s, well under the 60-120 s timeout used) before succeeding; both eventually succeeded, unlike Chapter 10, where the redesigned/disordered sequences never returned a structure across repeated real attempts.",
+  "stage5_prodigy_validation_2OOB": {
+    "n_contacts": 78,
+    "AA": 15,
+    "PP": 0,
+    "CC": 3,
+    "AP": 2,
+    "CP": 3,
+    "AC": 13,
+    "pct_nis_apolar": 31.08108108108108,
+    "pct_nis_polar": 27.027027027027028,
+    "pct_nis_charged": 41.891891891891895,
+    "predicted_dg_kcal_mol": -6.389872972972974,
+    "predicted_kd_M": 2.056181129619676e-05
+  },
+  "stage5_prodigy_sb45_rbd": {
+    "n_contacts": 181,
+    "AA": 29,
+    "PP": 2,
+    "CC": 7,
+    "AP": 13,
+    "CP": 11,
+    "AC": 28,
+    "pct_nis_apolar": 35.78431372549019,
+    "pct_nis_polar": 43.627450980392155,
+    "pct_nis_charged": 20.58823529411765,
+    "predicted_dg_kcal_mol": -12.43497705882353,
+    "predicted_kd_M": 7.568484501730653e-10
+  },
+  "stage5_prodigy_ace2_rbd": {
+    "n_contacts": 67,
+    "AA": 10,
+    "PP": 4,
+    "CC": 3,
+    "AP": 21,
+    "CP": 10,
+    "AC": 18,
+    "pct_nis_apolar": 35.283687943262414,
+    "pct_nis_polar": 39.53900709219858,
+    "pct_nis_charged": 25.177304964539008,
+    "predicted_dg_kcal_mol": -11.937828439716313,
+    "predicted_kd_M": 1.7525275562464544e-09
+  },
+  "native_esmfold_ca_rmsd": {
+    "n_residues_compared": 121,
+    "global_ca_rmsd": 1.3927192281435006
+  }
+}

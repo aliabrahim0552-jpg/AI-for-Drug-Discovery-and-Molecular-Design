@@ -1,0 +1,18 @@
+name,smiles
+Aspirin,CC(=O)OC1=CC=CC=C1C(=O)O
+Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+Naproxen,COC1=CC2=CC(=CC=C2C=C1)C(C)C(=O)O
+Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+Theobromine,CN1C=NC2=C1C(=O)NC(=O)N2C
+Theophylline,CN1C2=C(C(=O)N(C1=O)C)N=CN2
+Paracetamol,CC(=O)NC1=CC=C(C=C1)O
+Nicotine,CN1CCCC1C2=CN=CC=C2
+Dopamine,C1=CC(=C(C=C1CCN)O)O
+Serotonin,C1=CC2=C(C=C1O)C(=CN2)CCN
+Metformin,CN(C)C(=N)NC(=N)N
+Salicylic acid,C1=CC=C(C(=C1)C(=O)O)O
+Benzocaine,CCOC(=O)C1=CC=C(N)C=C1
+Phenylalanine,C1=CC=C(C=C1)CC(C(=O)O)N
+Acetylcysteine,CC(=O)NC(CS)C(=O)O
+Urea,C(=O)(N)N
+Warfarin,CC(=O)CC(c1ccccc1)C1=C(O)c2ccccc2OC1=O

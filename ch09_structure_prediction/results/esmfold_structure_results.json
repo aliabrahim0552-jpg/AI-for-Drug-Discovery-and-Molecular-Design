@@ -1,0 +1,19 @@
+{
+  "confidence_vs_accuracy": {
+    "n": 76,
+    "global_ca_rmsd": 0.8273648133349829,
+    "spearman_rho_plddt_vs_deviation": -0.5296176298188646,
+    "spearman_pvalue": 8.68029778026003e-07,
+    "mean_plddt": 0.8584447387407913
+  },
+  "disorder_signal": {
+    "n_ordered": 76,
+    "n_disordered": 140,
+    "mean_plddt_ordered": 0.8584447387407913,
+    "mean_plddt_disordered": 0.3146035791589363,
+    "median_plddt_ordered": 0.8835714285714286,
+    "median_plddt_disordered": 0.30873015873015874,
+    "mannwhitney_u": 10629.0,
+    "mannwhitney_pvalue_greater": 5.13861231828497e-34
+  }
+}
