@@ -64,3 +64,8 @@ This project is licensed under the MIT License — see LICENSE for details.
 ## Contributing
 
 Contributions are welcome — see CONTRIBUTING.md for guidelines.
+
+
+## Testing
+
+Continuous integration runs a lightweight syntax and lint check (Python compile check plus ruff) on every push and pull request. Running the full pytest suite requires a GPU-enabled environment with the specialized bio/cheminformatics and modeling dependencies installed (RDKit, DeepChem, PyTorch Geometric, OpenMM, AlphaFold/ESMFold tooling, and similar) — see each chapter's own dependencies before running its tests locally or on Google Colab.
